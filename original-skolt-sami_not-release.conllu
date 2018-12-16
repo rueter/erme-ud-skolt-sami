@@ -1,0 +1,645 @@
+# -:- coding= UTF-8 -:-
+#<?xml version='1.0' encoding='UTF-8'?>
+#<text
+#title_myv="brat 4 UD"
+#title_eng=""
+#title_fin=""
+#xml:lang="sms"
+#translator_first_name="Hilkka"
+#translator_last_name="Fofonoff"
+#translator_patronym=""
+#characterCount=""
+#firstPage=""
+#lastPage=""
+#genre_eng=""
+#genre_fin=""
+#genre_myv=""
+#native_language="sms"
+#publicationPlace=""
+#publicationYear="2018"
+#publication_status="published"
+#publisher=""
+#correctionYear="2018"
+#corrector_first_name="Jack"
+#corrector_last_name="Rueter"
+#status_eng="open"
+#status_fin="open"
+#wordCount=""
+#license=""
+#>
+# sent_id = FofonoffHilkka_brat_2018:1
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="1" # storyID="brat"
+# text = Tõt nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses.
+# text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
+1	Tõt	tõt	DET	Det	Dem|Sg|Nom	2	det	_	_
+2	nijdd	nijdd	NOUN	N	Sem/Kin|Sg|Nom	3	nsubj	_	_
+3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Ind|Prt|Sg3	0	root	_	_
+4	ǩeeʹrj	ǩeʹrjj	NOUN	N	Sg|Acc	3	obj	_	_
+5	taaurõššʼses	taaurõš	NOUN	N	Sg|Ill|PxSg3	3	obl	_	_
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:2
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+1	Joordam	juʹrdded	VERB	V	Ind|Prs|Sg1	0	root	_	_
+2	što		što	CS	CS	_	3	mark	_	_
+3	âbrr		âʹbrred	VERB	V	Ind|Prs|Sg3	1	ccomp	_	_
+4	.		.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:3
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
+# text = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
+# text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
+"<Son>"
+        "son" Pron Pers Sg3 Nom @SUBJ>
+: 
+"<ǩiččlõõddi>"
+        "ǩiččlõddâd" V Ind Prt Sg3 @+FMAINV
+: 
+"<looppted>"
+        "looppted" V Inf
+: 
+"<tääbbaǩ>"
+        "tääbbaǩ" N Pl Nom @<SUBJ
+        "tääbbaǩ" N Sg Acc @OBJ>
+        "tääbbaǩ" N Sg Gen
+        "tääbbaǩ" N Sg Nom @<SUBJ
+: 
+"<puälddmõõžž>"
+        "puälddmõš" N Pl Nom
+        "puälddmõš" N Sg Acc @OBJ>
+        "puälddmõš" N Sg Gen
+: 
+"<da>"
+        "da" CC @CNP
+: 
+"<veeiʹn>"
+        "veiʹnn" N Pl Nom @<SUBJ
+        "veiʹnn" N Sg Acc @OBJ>
+        "veiʹnn" N Sg Gen
+: 
+"<juukkmõõžž>"
+        "juukkmõš" N Pl Nom
+        "juukkmõš" N Sg Acc @<OBJ
+        "juukkmõš" N Sg Gen
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:4
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
+# text = Haaʹlääk-a mõõnnâd?
+# text_fi = Haluatko mennä?
+"<Haaʹlääk-a>"
+        "haaʹleed" V Ind Prs Sg2 Qst/a @+FMAINV
+: 
+"<mõõnnâd>"
+        "mõõnnâd" V Inf
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:5
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
+# text = Ääʹved ikkân Sam!
+# text_fi = Avaa ikkuna Sam!
+"<Ääʹved>"
+        "ääʹveed" V Imprt Sg2 @+FMAINV
+: 
+"<ikkân>"
+        "ikkân" N Pl Nom
+        "ikkân" N Sg Acc @OBJ>
+        "ikkân" N Sg Gen
+        "ikkân" N Sg Nom
+: 
+"<Sam>"
+        "Sam" N Prop Sg Nom
+"<!>"
+        "!" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:6
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
+# text = Son piiji kuõjâs põõssâd aaut.
+# text_fi = Hän pani miehensä pesemään auton.
+1	Son	son	Pron	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	piiji		piijjâd	V	_	Ind|Prt|Sg3	0	root	_	_
+3	kuõjâs		kuõjj	N	_	Sem/Kin|Sg|Acc|PxSg3	2	obj	_	_
+4	põõssâd	põõssâd	V	_	Inf	2	xcomp	_	_
+5	aaut		autt	N	_	Sg|Acc	4	obj	_	_
+6	.		.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:7
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+1	Peter	Peter	NOUN	N	Prop|Sem/Mal|Sg|Gen	2	nmod	_	_
+2	räʹjjlaž	räʹjjlaž	NOUN	N	Sg|Nom	3	nsubj	_	_
+3	kälkkii	kälkkeed	VERB	V	Ind|Prt|Sg3	0	root	_	_
+4	čuâl	čuâll	NOUN	N	Sg|Acc	3	obj	_	_
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:8
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäni on viileämpi kuin sinun.
+1	Eččad	eʹčč	NOUN	N	Sem/Kin|Sg|Nom|PxSg2	4	nsubj	_	_
+2	lij	leeʹd	VERB	V	IV|Ind|Prs|Sg3	4	cop	_	_
+3	luândstes	luândd	NOUN	N	Sg|Loc|PxSg3	4	obl	_	_
+4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Comp|Sg|Nom	0	root	_	_
+5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
+6	eččan	eʹčč	NOUN	N	Sem/Kin|Sg|Nom|PxSg1	4	obl	_	_
+7	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:9
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
+# text = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
+# text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
+"<Mary>"
+        "Mary" N Prop Sem/Fem Sg Gen
+: 
+"<vuäǯǯai>"
+        "vuäǯǯai" N Pl Nom @SUBJ
+        "vuäǯǯai" N Sg Acc @OBJ>
+        "vuäǯǯai" N Sg Gen
+        "vuäǯǯai" N Sg Nom @SUBJ
+        "vuäǯǯad" V Act PrsPrc
+        "vuäǯǯad" V Act PrsPrc Pl Nom @SUBJ
+        "vuäǯǯad" V Act PrsPrc Sg Nom @SUBJ
+        "vuäǯǯad" V Ind Prt Sg3 @+FMAINV
+: 
+"<proons>"
+        "pronss" N Pl Nom
+        "pronss" N Sg Acc @OBJ>
+        "pronss" N Sg Gen
+"<,>"
+        "," CLB
+: 
+"<Peter>"
+        "Peter" N Prop Sem/Mal Sg Gen Allegro
+: 
+"<siilb>"
+        "silbb" N Pl Nom @<SUBJ
+        "silbb" N Sg Acc @OBJ>
+        "silbb" N Sg Gen
+: 
+"<da>"
+        "da" CC @CNP
+: 
+"<Jane>"
+        "Jane" Sem/Fem Pl Nom @<SUBJ
+        "Jane" Sem/Fem Sg Acc @OBJ>
+        "Jane" Sem/Fem Sg Gen
+        "Jane" Sem/Fem Sg Ill
+        "Jane" Sem/Fem Sg Nom @<SUBJ
+: 
+"<kååʹll>"
+        "kåʹll" N Pl Nom
+        "kåʹll" N Sg Acc @<OBJ
+        "kåʹll" N Sg Gen
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:10
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
+# text = Lij-a Iguazu jõnn avi uʹcc jânnam?
+# text_fi = Onko Iguazu iso vai pieni maa?
+"<Lij-a>"
+        "leeʹd" V IV Ind Prs Sg3 Qst/a @+FMAINV
+: 
+"<Iguazu>"
+        "Iguazu" ?
+: 
+"<jõnn>"
+        "jõnn" A Attr
+: 
+"<avi>"
+        "avi" CC <sms>
+: 
+"<uʹcc>"
+        "uʹcc" A Sg Nom @<SUBJ
+: 
+"<jânnam>"
+        "jânnam" N Pl Nom
+        "jânnam" N Sg Acc @<OBJ
+        "jânnam" N Sg Gen
+        "jânnam" N Sg Nom
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:11
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
+# text = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
+# text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
+"<Nuʹtt>"
+        "nuʹtt" Adv @ADVL>
+        "nuʹtt" Pcle <sms>
+: 
+"<kuâđđje>"
+        "kuâđđjed" V Ind Prs Pl3 @+FMAINV
+        "kuâđđjed" V Ind Prt Pl3 @+FMAINV
+: 
+"<vaʹlljeeǩâni>"
+        "vaʹlljeed" V VAbess
+: 
+"<Peter>"
+        "Peter" N Prop Sem/Mal Attr
+        "Peter" N Prop Sem/Mal Cmp/SgNom
+        "Peter" N Prop Sem/Mal Sg Acc @OBJ>
+        "Peter" N Prop Sem/Mal Sg Gen Allegro
+: 
+"<Smith>"
+        "Smith" N Prop Sem/Sur Sg Nom @<SUBJ
+        "Smith" N Prop Sem/Sur Cmp/SgNom
+        "Smith" N Prop Sem/Sur Sg Acc @OBJ>
+        "Smith" N Prop Sem/Sur Sg Gen
+: 
+"<diǥu>"
+        "diǥu" Adv @<ADVL
+        "diǥu" CS @CVP
+: 
+"<še>"
+        "še" Adv <sms>
+        "še" Pcle <sms>
+: 
+"<Mary>"
+        "Mary" N Prop Sem/Fem Attr
+        "Mary" N Prop Sem/Fem Cmp/SgNom
+        "Mary" N Prop Sem/Fem Sg Acc @OBJ>
+        "Mary" N Prop Sem/Fem Sg Gen
+: 
+"<Brown>"
+        "Brown" N Prop Sem/Plc Cmp/SgNom
+        "Brown" N Prop Sem/Plc Sg Acc @<OBJ
+        "Brown" N Prop Sem/Plc Sg Gen
+        "Brown" N Prop Sem/Plc Sg Nom
+        "Brown" N Prop Sem/Sur Cmp/SgNom
+        "Brown" N Prop Sem/Sur Sg Acc @<OBJ
+        "Brown" N Prop Sem/Sur Sg Gen
+        "Brown" N Prop Sem/Sur Sg Nom
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:12
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
+# text = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
+# text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
+"<Seeʹst>"
+        "son" Pron Pers Pl3 Loc
+: 
+"<jeäʹla>"
+        "jeäʹla" V V <sms>
+: 
+"<ǩeeʹrjteeʹjest>"
+        "ǩeeʹrjted" Ex/V Der/NomAg N Sg Loc
+        "ǩeeʹrjteei" N Sg Loc
+: 
+"<võl>"
+        "võl" Adv Sem/Time
+: 
+"<ni>"
+        "ni" Adv <sms>
+        "ni" Pcle <sms>
+: 
+"<måkam>"
+        "måkam" A <sms>
+        "måkam" Det Attr
+        "måkam" Det Pl Nom
+        "måkam" Det Sg Acc @OBJ>
+        "måkam" Det Sg Gen
+        "måkam" Det Sg Nom
+: 
+: 
+"<jurddi>"
+        "juurd" N Pl Nom
+        "juurd" N Sg Acc @<OBJ
+        "juurd" N Sg Gen
+        "juʹrdded" V Act PrsPrc Sg Nom
+        "juʹrdded" V Act PrsPrc
+        "juʹrdded" V Act PrsPrc Pl Nom
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:13
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
+# text = Mâiʹd ǩiõččak?
+# text_fi = Mitä katsot?
+"<Mâiʹd>"
+        "mâiʹd"
+        "mâiʹd" Pron Pron Interr
+: 
+"<ǩiõččak>"
+        "ǩiõččâd" V Ind Prs Sg2 @+FMAINV
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:14
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
+# text = Mâiʹd joordak što kuäʹss piâzzčiǩ?
+# text_fi = Milloin luulet voivasi tulla?
+"<Mâiʹd>"
+        "mâiʹd"
+        "mâiʹd" Pron Pron Interr
+: 
+"<joordak>"
+        "juʹrdded" V Ind Prs Sg2 @+FMAINV
+: 
+"<što>"
+        "što" CS @CVP
+: 
+"<kuäʹss>"
+        "kuäʹss" Adv <sms>
+        "kuäʹss" CS Sem/Time @CVP
+        "kuäʹss" Pron Rel
+: 
+"<piâzzčiǩ>"
+        "piâssâd" V Cond Sg2
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:15
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
+# text = Son vueʹsti aaut da väʹst viʹlljes pâi tanccâmvuâjan.
+# text_fi = Hän osti auton mutta veljensä vain pyörän.
+"<Son>"
+        "son" Pron Pers Sg3 Nom @SUBJ>
+: 
+"<vueʹsti>"
+        "vueʹstti" N Pl Nom
+        "vuäʹstted" V Ind Prt Sg3 @+FMAINV
+        "vuäʹstted" V Act PrsPrc Pl Nom
+: 
+"<aaut>"
+        "aaut" N Pl Nom
+        "ahtt" N Pl Nom
+        "ahtt" N Sg Acc @OBJ>
+        "ahtt" N Sg Gen
+        "autt" N Pl Nom
+        "autt" N Sg Acc @OBJ>
+        "autt" N Sg Gen
+: 
+"<da>"
+        "da" CC <sms>
+: 
+"<väʹst>"
+        "väʹst" Adv @<ADVL
+: 
+"<viʹlljes>"
+        "villj" Ex/N"+Kin" Sem/Kin Der/N2A A Attr
+        "villj" Ex/N"+Kin" Sem/Kin Err/Orth Der/N2A A Attr
+: 
+"<pâi>"
+        "pâi" Adv @<ADVL
+        "pâi" CC <sms>
+: 
+"<tanccâmvuâjan>"
+        "vuâjan" N Pl Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
+        "vuâjan" N Sg Acc @<OBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
+        "vuâjan" N Sg Gen
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
+        "vuâjan" N Sg Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
+        "vuâjan" N Pl Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
+        "vuâjan" N Sg Acc @<OBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
+        "vuâjan" N Sg Gen
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
+        "vuâjan" N Sg Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
+        "vuâjan" N Pl Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
+        "vuâjan" N Sg Acc @<OBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
+        "vuâjan" N Sg Gen
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
+        "vuâjan" N Sg Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
+        "vuâjan" N Pl Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
+        "vuâjan" N Sg Acc @<OBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
+        "vuâjan" N Sg Gen
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
+        "vuâjan" N Sg Nom @<SUBJ
+                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:16
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
+# text = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
+# text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
+"<Peter>"
+        "Peter" N Prop Sem/Mal Sg Gen Allegro
+: 
+"<da>"
+        "da" CC @CNP
+: 
+"<Mary>"
+        "Mary" N Prop Sem/Fem Sg Nom @SUBJ>
+        "Mary" N Prop Sem/Fem Cmp/SgNom
+        "Mary" N Prop Sem/Fem Sg Acc @OBJ>
+        "Mary" N Prop Sem/Fem Sg Gen
+: 
+"<âskkõʹlle>"
+        "âskkeed" Ex/V Der/oollyd Ind Prt Pl3 @+FMAINV
+        "âskkõõllâd" V Ind Prt Pl3 @+FMAINV
+: 
+"<da>"
+        "da" CC @CVP
+: 
+"<liõʹhtte>"
+        "liõhttâd" V Ind Prs Pl3 @+FMAINV
+        "liõhttâd" V Ind Prt Pl3 @+FMAINV
+: 
+"<meädda>"
+        "meädda" Adv @<ADVL
+: 
+"<lõõnjâst>"
+        "âstt" N Pl Nom @<SUBJ
+                "lõnnj" Ex/N Der/Dimin N Cmp/PlGen Err/Orth Cmp
+        "âstt" N Sg Acc @<OBJ
+                "lõnnj" Ex/N Der/Dimin N Cmp/PlGen Err/Orth Cmp
+        "âstt" N Sg Gen
+                "lõnnj" Ex/N Der/Dimin N Cmp/PlGen Err/Orth Cmp
+        "âstt" N Pl Nom @<SUBJ
+                "lõnnj" N Cmp/PlGen Err/Orth Cmp
+        "âstt" N Sg Acc @<OBJ
+                "lõnnj" N Cmp/PlGen Err/Orth Cmp
+        "âstt" N Sg Gen
+                "lõnnj" N Cmp/PlGen Err/Orth Cmp
+        "âstt" N Pl Nom @<SUBJ
+                "lõnnj" N Cmp/SgGen Err/Orth Cmp
+        "âstt" N Sg Acc @<OBJ
+                "lõnnj" N Cmp/SgGen Err/Orth Cmp
+        "âstt" N Sg Gen
+                "lõnnj" N Cmp/SgGen Err/Orth Cmp
+        "lõnnj" N Sg Loc
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:17
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
+# text = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
+# text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
+"<Suʹst>"
+        "son" Pron Pers Sg3 Loc
+: 
+"<leäi>"
+        "leeʹd" V IV Ind Prt Sg3 @+FMAINV
+: 
+"<õlggâm>"
+        "õlggâd" V Act PrfPrc
+: 
+"<leeʹd>"
+        "leeʹd" V IV Inf
+: 
+"<tõn>"
+        "tõt" Det Dem Sg Acc @OBJ>
+        "tõt" Det Dem Sg Gen
+        "tõt" Pron Dem Sg Acc @OBJ>
+        "tõt" Pron Dem Sg Gen
+: 
+"<peeiʹv>"
+        "peiʹvv" N Pl Nom @<SUBJ
+        "peiʹvv" N Sg Acc @OBJ>
+        "peiʹvv" N Sg Gen
+: 
+"<čååǥǥâʹttmen>"
+        "čååǥǥâʹttmen" ?
+: 
+"<vuõptees>"
+        "vuõptt" N Pl Ill PxSg3 @<ADVL
+"<,>"
+        "," CLB
+: 
+"<leša>"
+        "leša" Adv <sms>
+        "leša" CC <sms>
+: 
+"<mii>"
+        "mii"
+        "mii" Pron Rel Sg Nom @<SUBJ
+: 
+"<leežž>"
+        "leeʹd" V IV Pot Sg3
+: 
+"<šõddâm>"
+        "šõddâd" V Act PrfPrc
+: 
+"<ǥu>"
+        "ǥu" CS @CVP
+: 
+"<ij>"
+        "ij" V Neg Ind Sg3 @+FAUXV
+: 
+"<tâʹl>"
+        "tâʹl"
+        "tâʹl" Adv Sem/Time @ADVL>
+: 
+"<ni>"
+        "ni" Adv @ADVL>
+        "ni" Pcle <sms>
+: 
+"<vuäittam>"
+        "vueiʹtted" V Act PrfPrc @-FMAINV
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:18
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
+# text = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
+# text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
+"<Jiõm>"
+        "ij" V Neg Ind Sg1 @+FAUXV
+        "jiõm" V V <sms>
+: 
+"<pâsttam>"
+        "pâʹstted" V Ind Prt ConNeg @+FMAINV
+: 
+"<seuʹrrjed>"
+        "seuʹrrjed" V Inf
+: 
+"<suu>"
+        "son" Pron Pers Sg3 Acc @OBJ>
+        "son" Pron Pers Sg3 Gen
+: 
+"<urččmõõžž>"
+        "urččmõš" N Pl Nom @<SUBJ
+        "urččmõš" N Sg Acc @OBJ>
+        "urččmõš" N Sg Gen
+: 
+"<ǥu>"
+        "ǥu" CS @CVP
+: 
+"<son>"
+        "son" Pron Pers Sg3 Nom
+: 
+"<leäi>"
+        "leeʹd" V IV Ind Prt Sg3 @+FMAINV
+: 
+"<samai>"
+        "samai" Adv @<ADVL
+: 
+"<jåʹttel>"
+        "jåʹttel" A Pl Nom @<SUBJ
+        "jåʹttel" A Sg Acc @<OBJ
+        "jåʹttel" A Sg Gen
+        "jåʹttel" A Sg Nom @<SUBJ
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:19
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
+# text = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
+# text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
+"<Tät>"
+        "tät" Det Dem Sg Nom @SUBJ>
+        "tät" Pron Dem Sg Nom @SUBJ>
+: 
+"<jåhtta>"
+        "jåhtta" Adv Sem/Time @ADVL>
+: 
+"<tuåimtum>"
+        "tuåimted" V Pass PrfPrc
+: 
+"<ǩeʹrjj>"
+        "ǩeʹrjj" N Sg Nom
+: 
+"<lij>"
+        "leeʹd" V IV Ind Prs Sg3 @+FMAINV
+: 
+"<Peter>"
+        "Peter" N Prop Sem/Mal Sg Nom
+        "Peter" N Prop Sem/Mal Cmp/SgNom
+        "Peter" N Prop Sem/Mal Sg Acc @OBJ>
+        "Peter" N Prop Sem/Mal Sg Gen Allegro
+: 
+"<vuõltteem>"
+        "vuõllâd" Ex/V Der/Caus Der/teqm A Pl Nom
+        "vuõllâd" Ex/V Der/Caus Der/teqm A Sg Acc @<OBJ
+        "vuõllâd" Ex/V Der/Caus Der/teqm A Sg Gen
+        "vuõltteed" V Actio
+        "vuõltteed" V Actio Acc @<OBJ
+        "vuõltteed" V Actio Gen
+        "vuõltteed" V Actio Nom
+        "vuõltteed" V Ind Prt Sg1 @+FMAINV
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:20
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
+# text = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+1	Son	son	PRON	Pron	Pers|Sg3|Nom	2	nsubj	_	_
+2	jälsti	jälsted	VERB	V	Ind|Prt|Sg3	0	root	_	_
+3-4	čõõđ ääiʹj	_	_	_	_	_	_	_	_
+3	čõõđ čõõđ	ADP	Adp	_	4	case	_	_
+4	ääiʹj	äiʹǧǧ	NOUN	N	Sg|Gen	2	obl	_	_
+5	Pariizzâst	Pariizzâst	PROPN	N	Prop|Sem/Plc|Sg|Loc	2	obl	_	_
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	Franskkjânnam	Franskkjânnam	PROPN	N	Prop|Sem/Plc|Sg|Gen	8	nmod	_	_
+8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Sg|Loc	5	appos	_	_
+9	.	.	PUNCT	CLB	_	2	punct	_	_
+</text>
