@@ -1,0 +1,1396 @@
+# -:- coding= UTF-8 -:-
+# sent_id = FofonoffHilkka_brat_2018:1
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="1" # storyID="brat"
+# text = Tõt nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses.
+# text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
+1	Tõt	tõt	DET	Det	Dem|Sg|Nom	2	det	_	_
+2	nijdd	nijdd	NOUN	N	Sem/Kin|Sg|Nom	3	nsubj	_	_
+3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Ind|Prt|Sg3	0	root	_	_
+4	ǩeeʹrj	ǩeʹrjj	NOUN	N	Sg|Acc	3	obj	_	_
+5	taaurõššʼses	taaurõš	NOUN	N	Sg|Ill|PxSg3	3	obl	_	_
+6	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:2
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+1	Joordam	juʹrdded	VERB	V	Ind|Prs|Sg1	0	root	_	_
+2	što		što	CS	CS	_	3	mark	_	_
+3	âbrr		âʹbrred	VERB	V	Ind|Prs|Sg3	1	ccomp	_	_
+4	.		.	PUNCT	CLB	_	1	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:3
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
+# text = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
+# text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
+"<Son>"
+        "son" Pron Pers Sg3 Nom 
+"<ǩiččlõõddi>"
+        "ǩiččlõddâd" V Ind Prt Sg3 
+"<looppted>"
+        "looppted" V Inf
+"<tääbbaǩ>"
+        "tääbbaǩ" N Sg Gen
+"<puälddmõõžž>"
+        "puälddmõš" N Sg Acc 
+"<da>"
+        "da" CC 
+"<veeiʹn>"
+        "veiʹnn" N Sg Gen
+"<juukkmõõžž>"
+        "juukkmõš" N Sg Acc 
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:4
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
+# text = Haaʹlääk-a mõõnnâd?
+# text_fi = Haluatko mennä?
+"<Haaʹlääk-a>"
+        "haaʹleed" V Ind Prs Sg2 Qst/a 
+"<mõõnnâd>"
+        "mõõnnâd" V Inf
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:5
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
+# text = Ääʹved ikkân Sam!
+# text_fi = Avaa ikkuna Sam!
+"<Ääʹved>"
+        "ääʹveed" V Imprt Sg2 
+"<ikkân>"
+        "ikkân" N Sg Acc 
+"<Sam>"
+        "Sam" N Prop Sg Nom
+"<!>"
+        "!" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:6
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
+# text = Son piiji kuõjâs põõssâd aaut.
+# text_fi = Hän pani miehensä pesemään auton.
+1	Son	son	Pron	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	piiji		piijjâd	V	_	Ind|Prt|Sg3	0	root	_	_
+3	kuõjâs		kuõjj	N	_	Sem/Kin|Sg|Acc|PxSg3	2	obj	_	_
+4	põõssâd	põõssâd	V	_	Inf	2	xcomp	_	_
+5	aaut		autt	N	_	Sg|Acc	4	obj	_	_
+6	.		.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:7
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+1	Peter	Peter	NOUN	N	Prop|Sem/Mal|Sg|Gen	2	nmod	_	_
+2	räʹjjlaž	räʹjjlaž	NOUN	N	Sg|Nom	3	nsubj	_	_
+3	kälkkii	kälkkeed	VERB	V	Ind|Prt|Sg3	0	root	_	_
+4	čuâl	čuâll	NOUN	N	Sg|Acc	3	obj	_	_
+5	.	.	PUNCT	CLB	_	3	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:8
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+1	Eččad	eʹčč	NOUN	N	Sem/Kin|Sg|Nom|PxSg2	4	nsubj	_	_
+2	lij	leeʹd	VERB	V	IV|Ind|Prs|Sg3	4	cop	_	_
+3	luândstes	luândd	NOUN	N	Sg|Loc|PxSg3	4	obl	_	_
+4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Comp|Sg|Nom	0	root	_	_
+5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
+6	eččan	eʹčč	NOUN	N	Sem/Kin|Sg|Nom|PxSg1	4	obl	_	_
+7	.	.	PUNCT	CLB	_	4	punct	_	_
+
+# sent_id = FofonoffHilkka_brat_2018:9
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
+# text = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
+# text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
+"<Mary>"
+        "Mary" N Prop Sem/Fem Sg Nom
+"<vuäǯǯai>"
+        "vuäǯǯad" V Ind Prt Sg3 
+"<proons>"
+        "pronss" N Sg Acc 
+"<,>"
+        "," CLB
+"<Peter>"
+        "Peter" N Prop Sem/Mal Sg Nom
+"<siilb>"
+        "silbb" N Sg Acc 
+"<da>"
+        "da" CC 
+"<Jane>"
+        "Jane" Sem/Fem Sg Nom 
+"<kååʹll>"
+        "kåʹll" N Sg Acc 
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:10
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
+# text = Lij-a Iguazu jõnn avi uʹcc jânnam?
+# text_fi = Onko Iguazu iso vai pieni maa?
+"<Lij-a>"
+        "leeʹd" V IV Ind Prs Sg3 Qst/a 
+"<Iguazu>"
+        "Iguazu" N Prop Sg Nom
+"<jõnn>"
+        "jõnn" A Attr
+"<avi>"
+        "avi" CC
+"<uʹcc>"
+        "uʹcc" A Sg Nom 
+"<jânnam>"
+        "jânnam" N Sg Nom
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:11
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
+# text = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
+# text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
+"<Nuʹtt>"
+        "nuʹtt" Adv 
+"<kuâđđje>"
+        "kuâđđjed" V Ind Prt Pl3 
+"<vaʹlljeeǩâni>"
+        "vaʹlljeed" V VAbess
+"<Peter>"
+        "Peter" N Prop Sem/Mal Attr
+"<Smith>"
+        "Smith" N Prop Sem/Sur Sg Nom 
+"<diǥu>"
+        "diǥu" CS 
+"<še>"
+        "še" Pcle
+"<Mary>"
+        "Mary" N Prop Sem/Fem Attr
+"<Brown>"
+        "Brown" N Prop Sem/Sur Sg Nom
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:12
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
+# text = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
+# text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
+"<Seeʹst>"
+        "son" Pron Pers Pl3 Loc
+"<jeäʹla>"
+        "iʹlla" V V
+"<ǩeeʹrjteeʹjest>"
+        "ǩeeʹrjteei" N Sg Loc
+"<võl>"
+        "võl" Adv Sem/Time
+"<ni>"
+        "ni" Pcle
+"<måkam>"
+        "måkam" Det Attr
+"<jurddi>"
+        "juurd" N Pl Nom
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:13
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
+# text = Mâiʹd ǩiõččak?
+# text_fi = Mitä katsot?
+"<Mâiʹd>"
+        "mâiʹd" Pron Interr Acc
+"<ǩiõččak>"
+        "ǩiõččâd" V Ind Prs Sg2 
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:14
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
+# text = Mâiʹd joordak što kuäʹss piâzzčiǩ?
+# text_fi = Milloin luulet voivasi tulla?
+"<Mâiʹd>"
+        "mâiʹd" Pron Interr
+"<joordak>"
+        "juʹrdded" V Ind Prs Sg2 
+"<što>"
+        "što" CS 
+"<kuäʹss>"
+        "kuäʹss" Adv
+"<piâzzčiǩ>"
+        "piâssâd" V Cond Sg2
+"<?>"
+        "?" CLB
+
+# sent_id = FofonoffHilkka_brat_2018:15
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
+# text = Son vueʹsti aaut da väʹst viʹlljes pâi tanccâmvuâjan.
+# text_fi = Hän osti auton mutta veljensä vain pyörän.
+"<Son>"
+        "son" Pron Pers Sg3 Nom 
+"<vueʹsti>"
+        "vuäʹstted" V Ind Prt Sg3 
+"<aaut>"
+        "autt" N Sg Acc 
+"<da>"
+        "da" CC
+"<väʹst>"
+        "väʹst" Adv 
+"<viʹlljes>"
+        "villj" N Sem/Kin Sg Nom PxSg3
+"<pâi>"
+        "pâi" Adv 
+"<tanccâmvuâjan>"
+        "tanccâmvuâjan" N Sg Acc 
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:16
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
+# text = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
+# text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
+"<Peter>"
+        "Peter" N Prop Sem/Mal Sg Nom
+"<da>"
+        "da" CC 
+"<Mary>"
+        "Mary" N Prop Sem/Fem Sg Nom 
+"<âskkõʹlle>"
+        "âskkõõllâd" V Ind Prt Pl3 
+"<da>"
+        "da" CC 
+"<liõʹhtte>"
+        "liõhttâd" V Ind Prt Pl3 
+"<meädda>"
+        "meädda" Adv 
+"<lõõnjâst>"
+        "lõnnj" N Sg Loc
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:17
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
+# text = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
+# text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
+"<Suʹst>"
+        "son" Pron Pers Sg3 Loc
+"<leäi>"
+        "leeʹd" V IV Ind Prt Sg3 
+"<õlggâm>"
+        "õlggâd" V Act PrfPrc
+"<leeʹd>"
+        "leeʹd" V IV Inf
+"<tõn>"
+        "tõt" Det Dem Sg Gen
+"<peeiʹv>"
+        "peiʹvv" N Sg Gen
+"<čååǥǥâʹttmen>"
+        "čååǥǥâʹttmen" ?
+"<vuõptees>"
+        "vuõptt" N Pl Acc PxSg3 
+"<,>"
+        "," CLB
+"<leša>"
+        "leša" CC
+"<mii>"
+        "mii" Pron Rel Sg Nom 
+"<leežž>"
+        "leeʹd" V IV Pot Sg3
+"<šõddâm>"
+        "šõddâd" V Act PrfPrc
+"<ǥu>"
+        "ǥu" CS 
+"<ij>"
+        "ij" V Neg Ind Sg3 
+"<tâʹl>"
+        "tâʹl" Adv Sem/Time 
+"<ni>"
+        "ni" Pcle
+"<vuäittam>"
+        "vueiʹtted" V Act PrfPrc 
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:18
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
+# text = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
+# text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
+"<Jiõm>"
+        "ij" V Neg Ind Sg1 
+"<pâsttam>"
+        "pâʹstted" V Ind Prt ConNeg 
+"<seuʹrrjed>"
+        "seuʹrrjed" V Inf
+"<suu>"
+        "son" Pron Pers Sg3 Gen
+"<urččmõõžž>"
+        "urččmõš" N Sg Acc 
+"<ǥu>"
+        "ǥu" CS 
+"<son>"
+        "son" Pron Pers Sg3 Nom
+"<leäi>"
+        "leeʹd" V IV Ind Prt Sg3 
+"<samai>"
+        "samai" Adv 
+"<jåʹttel>"
+        "jåʹttel" A Sg Nom 
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:19
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
+# text = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
+# text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
+"<Tät>"
+        "tät" Det Dem Sg Nom 
+"<jåhtta>"
+        "jåhtta" Adv Sem/Time 
+"<tuåimtum>"
+        "tuåimted" V Pass PrfPrc
+"<ǩeʹrjj>"
+        "ǩeʹrjj" N Sg Nom
+"<lij>"
+        "leeʹd" V IV Ind Prs Sg3 
+"<Peter>"
+        "Peter" N Prop Sem/Mal Sg Nom
+"<vuõltteem>"
+        "vuõltteed" V Act PrfPrc 
+"<.>"
+        "." CLB
+
+# sent_id = FofonoffHilkka_brat_2018:20
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
+# text = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+1	Son	son	PRON	Pron	Pers|Sg3|Nom	2	nsubj	_	_
+2	jälsti	jälsted	VERB	V	Ind|Prt|Sg3	0	root	_	_
+3-4	čõõđ ääiʹj	_	_	_	_	_	_	_	_
+3	čõõđ čõõđ	ADP	Adp	_	4	case	_	_
+4	ääiʹj	äiʹǧǧ	NOUN	N	Sg|Gen	2	obl	_	_
+5	Pariizzâst	Pariizzâst	PROPN	N	Prop|Sem/Plc|Sg|Loc	2	obl	_	_
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	Franskkjânnam	Franskkjânnam	PROPN	N	Prop|Sem/Plc|Sg|Gen	8	nmod	_	_
+8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Sg|Loc	5	appos	_	_
+9	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = NA2_00635_1az::0:39:13
+# aannotation="no" begintime="0:39:13" endtime=""
+# text = Ij kuʹǩǩ leämmaž mieʹccest, iʹttli kuʹmpp väʹst mååust.
+# text_fi = Ei ollut kauaa metsässä, susi ilmestyi takaisin.
+"<Ij>"
+        "ij" V Neg Ind Sg3
+"<kuʹǩǩ>"
+        "kuʹǩǩ" A Sg Nom
+"<leämmaž>"
+        "leeʹd" V IV Act PrfPrc
+        "leeʹd" V IV Err/Orth Act PrfPrc
+        "leeʹd" V IV Ind Prt ConNeg
+        "leeʹd" V PrfPrc
+"<mieʹccest>"
+        "meäʹcc" N Sg Loc
+        "mieʹcsted" V Imprt ConNeg
+        "mieʹcsted" V Imprt Sg2
+        "mieʹcsted" V Ind Prs ConNeg
+"<,>"
+        "," CLB
+"<iʹttli>"
+        "iʹttled" V Ind Prt Sg3
+"<kuʹmpp>"
+        "kuʹmpp" N Sg Nom
+"<väʹst>"
+        "väʹst" Adv
+"<mååust>"
+        "mååust" Adv
+"<.>"
+        "." CLB
+###
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:01:32" endtime="0:01:36"
+# text = tõt sluužbäiʹǧǧ leäi kuâhttlovitt eeʹjj.
+# text_fi = se palvelusaika oli 25 vuotta.
+"<tõt>"
+         "tõt" Pron <sms> Dem Sg Nom @SUBJ>
+"<sluužbäiʹǧǧ>"
+          "äiʹǧǧ" N <sms> Sg Nom @SUBJ>
+                "sluuʹžb" N Cmp/SgGen Cmp
+"<leäi>"
+        "leeʹd" V <sms> IV Ind Prt Sg3 @+FMAINV
+"<kuâhttlovitt>"
+        "kuâhttlovitt" ?
+"<eeʹjj>"
+          "eeʹǩǩ" N <sms> Sg Gen
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:02:12" endtime="0:02:18"
+# text = kõõjji, štõ leäk-a tiõrvâs, jiõk leäkku tiõrvâs, lij-a piâr vai iʹlla.
+# text_fi = että oletko terve, et ole terve, onko perhettä vai eikö ole.
+"<kõõjji>"
+          "kõõččâd" V <sms> Ind Prt Sg3 @+FMAINV
+"<,>"
+        "," CLB
+"<štõ>"
+        "što" CS <sms> @CVP
+"<leäk-a>"
+        "leeʹd" V <sms> IV Ind Prs Sg2 Qst/a @+FMAINV
+"<tiõrvâs>"
+        "tiõrvâs" A <sms> Sg Nom
+"<,>"
+        "," CLB
+"<jiõk>"
+          "ij" V <sms> Neg Ind Sg2 @+FAUXV
+"<leäkku>"
+        "leeʹd" V <sms> IV Ind Prs ConNeg @+FMAINV
+"<tiõrvâs>"
+        "tiõrvâs" A <sms> Sg Nom @<SUBJ
+"<,>"
+        "," CLB
+"<lij-a>"
+        "leeʹd" V <sms> IV Ind Prs Sg3 Qst/a @+FMAINV
+"<piâr>"
+          "piâr" Hom1 N <sms> Sg Nom @<SUBJ
+"<vai>"
+        "vai" ?
+"<iʹlla>"
+        "iʹlla" V <sms> Neg Ind Prs Sg3 @+FAUXV
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:02:39" endtime="0:02:44"
+# text = teʹl piʹjje čiččâm ekka sluužba
+# text_fi = silloin laittoivat seitsemäksi vuodeksi palvelukseen
+"<teʹl>"
+          "teʹl" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<piʹjje>"
+        "piijjâd" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<čiččâm>" Osaatko vastata?
+        "čiččâm" Num <sms> Sg Nom SUBSTITUTE:1301
+"<ekka>"
+          "eeʹǩǩ" N <sms> Sg Ill @<ADVL MAP:1234 SUBSTITUTE:1298
+"<sluužba>"
+          "sluuʹžb" N <sms> Sg Ill @<ADVL MAP:1234 SUBSTITUTE:1298
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:02:50" endtime="0:02:53"
+# text = čiččâm eeʹǩǩed mâânn ouddâl ko peäss.
+# text_fi = seitsemän vuotta menee ennen kuin pääsee.
+"<čiččâm>"
+         "čiččâm" Num Sg Nom SELECT:627:genmod
+"<eeʹǩǩed>"
+          "eeʹǩǩ" N <sms> Par SUBSTITUTE:1298
+"<mâânn>"
+          "mõõnnâd" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<ouddâl>"
+          "ouddâl" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<ko>"
+        "ko" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<peäss>"
+          "piâssâd" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:03:29" endtime="0:03:34"
+# text = Na teʹl âʹtte čiččâm eeʹjj feʹrttji leeʹd säldten ja vasta puätt mååust.
+# text_fi = No silloinhan seitsemän vuotta täytyi olla sotilaana ja vasta sitten tulee takaisin.
+"<Na>"
+        "na" Interj <sms> Interj <sms> SUBSTITUTE:1302
+"<teʹl>"
+          "teʹl" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<âʹtte>"
+          "âʹtte" Adv <sms> Sem/Time @ADVL> MAP:1203 SUBSTITUTE:1299
+"<čiččâm>" Osaatko vastata?
+        "čiččâm" Num <sms> SUBSTITUTE:1301
+        "čiččâm" Num <sms> Pl Nom SUBSTITUTE:1301
+        "čiččâm" Num <sms> Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1301
+        "čiččâm" Num <sms> Sg Gen SUBSTITUTE:1301
+        "čiččâm" Num <sms> Sg Nom SUBSTITUTE:1301
+"<eeʹjj>"
+          "eeʹǩǩ" N <sms> Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1298
+"<feʹrttji>"
+        "feʹrttjed" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<leeʹd>"
+        "leeʹd" V <sms> IV Inf SUBSTITUTE:1300
+"<säldten>"
+        "säldten" ?
+"<ja>"
+        "ja" CC <sms> @CVP MAP:724 SUBSTITUTE:1306
+"<vasta>"
+        "vasta" ?
+"<puätt>"
+        "pueʹtted" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<mååust>"
+        "mååust" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:06:30" endtime="0:06:35"
+# text = Ja seeʹst vueʹppes leäi Laurikainen
+# text_fi = Ja heillä opas oli Laurikainen
+"<Ja>"
+        "ja" CC <sms> SUBSTITUTE:1306
+"<seeʹst>"
+        "son" Pron <sms> Pers Pl3 Loc SUBSTITUTE:1305
+"<vueʹppes>"
+        "vueʹppes" ?
+"<leäi>"
+        "leeʹd" V <sms> IV Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<Laurikainen>"
+        "Laurikainen" ?
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:09:13" endtime="0:09:18"
+# text = Oummu vuejjle de mõʹnne de mieʹldd čuõiggle.
+# text_fi = Miehet lähtivät ajamaan sitten menivät ja lähtivät perään hiihtämään.
+"<Oummu>"
+          "ooumaž" N <sms> Pl Nom @SUBJ> SELECT:636:npl MAP:1151 SUBSTITUTE:1298
+"<vuejjle>"
+          "vuejjled" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<de>"
+          "de" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
+"<mõʹnne>"
+          "mõõnnâd" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<de>"
+          "de" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
+"<mieʹldd>"
+          "mieʹldd" Adp
+"<čuõiggle>"
+          "čuõiggled" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:09:29" endtime="0:09:34"
+# text = Jieʹrj liâ ko di ǩeʹrres lij di sij pâi kappjeez mieʹldd išttle, mieʹldd, vuejjle Mueʹttsijdde.
+# text_fi = Härjät on ja ahkio on ja he vain vaimojensa perään istahtivat, perään, lähtivät ajamaan Muetkan kylään.
+"<Jieʹrj>"
+          "jeäʹrǧǧ" N <sms> Pl Nom @SUBJ> SELECT:636:npl MAP:1151 SUBSTITUTE:1298
+"<liâ>"
+        "leeʹd" V <sms> IV Ind Prs Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<ko>"
+        "ko" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<di>"
+        "di" CC <sms> SUBSTITUTE:1306
+"<ǩeʹrres>"
+        "ǩeʹrres" N <sms> Sg Nom SUBSTITUTE:1298
+"<lij>"
+        "leeʹd" V <sms> IV Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<di>"
+        "di" CC <sms> @CVP MAP:724 SUBSTITUTE:1306
+"<sin>"
+          "son" Pron <sms> Pers Pl3 Nom @<SUBJ MAP:1158 SUBSTITUTE:1305
+"<pâi>"
+          "pâi" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
+"<kappjeez>"
+        "kappjeez" ?
+"<mieʹldd>"
+          "mieʹldd" Po <sms> SUBSTITUTE:1303
+"<išttle>"
+          "išttled" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<mieʹldd>"
+          "mieʹldd" Adp
+"<,>"
+        "," CLB
+"<vuejjle>"
+          "vuejjled" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<Mueʹttsijdde>"
+        "Mueʹttsijdde" ?
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:09:34" endtime="0:09:36"
+# text = A tuk tiõttlõs päärneesvuiʹm vuõʹlǧǧe.
+# text_fi = Ja nuo tietysti lastensa kanssa lähtivät.
+"<A>"
+          "a" Pcle <sms> SUBSTITUTE:1308
+"<tuk>"
+          "tut" Pron <sms> Dem Pl Nom SUBSTITUTE:1305
+"<tiõttlõs>"
+        "tiõttlõs" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<päärneesvuiʹm>"
+          "päʹrnn" N"+Kin" Sem/Kin Pl Com PxSg3 @ADVL> MAP:1224
+"<vuõʹlǧǧe>"
+        "vueʹlǧǧed" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:10:26" endtime="0:10:29"
+# text = Di son tok Mueʹttsiʹjdde tõi oummeezvuiʹm mõõni
+# text_fi = Sitten hän sinne Muetkan kylään niitten miestensä kanssa meni
+"<Di>"
+        "di" CC <sms> SUBSTITUTE:1306
+"<son>"
+        "son" Pron <sms> Pers Sg3 Nom @SUBJ> MAP:1151 SUBSTITUTE:1305
+"<tok>"
+        "tok" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<Mueʹttsiʹjdde>"
+        "Mueʹttsiʹjdde" ?
+"<tõi>"
+          "tõt" Det Dem Pl Gen
+"<oummeezvuiʹm>"
+        "ooumaž" N <sms> Pl Com PxPl3 @ADVL> MAP:1224 SUBSTITUTE:1298
+"<mõõni>"
+          "mõõnnâd" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:11:00" endtime="0:11:06"
+# text = A tieʹđi, štõ âma koʹst lij miârr-reeddast jõnn tuõddâr ja pääuʹt liâ ja dõõk liâ
+# text_fi = No tiesi kai, että missä on meren rannalla iso tunturi ja pahdat ovat ja ne ovat
+"<A>"
+          "a" Pcle <sms> SUBSTITUTE:1308
+"<tieʹđi>"
+        "tieʹtti" N <sms> Pl Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<,>"
+        "," CLB
+"<štõ>"
+        "što" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<âma>"
+          "âma" Pcle <sms> SUBSTITUTE:1308
+"<koʹst>"
+          "koʹst" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<lij>"
+        "leeʹd" V <sms> IV Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<miârr-reeddast>"
+        "miârr-redd" N <sms> Sg Loc SUBSTITUTE:1298
+"<jõnn>"
+        "jõnn" A <sms> Attr SUBSTITUTE:1297
+"<tuõddâr>"
+          "tuõddâr" N <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<ja>"
+        "ja" CC <sms> @CNP MAP:714 SUBSTITUTE:1306
+"<pääuʹt>"
+          "päʹhtt" N <sms> Pl Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<liâ>"
+        "leeʹd" V <sms> IV Ind Prs Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<ja>"
+        "ja" CC <sms> @CVP MAP:724 SUBSTITUTE:1306
+"<dõõk>"
+        "dõõt" Pron <sms> Det Pl Nom @<SUBJ MAP:1158 SUBSTITUTE:1305
+"<liâ>"
+        "leeʹd" V <sms> IV Ind Prs Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:11:53" endtime="0:11:56"
+# text = mieʹrre mõʹnne, leežž kååʹtt piâssâm iʹlleʹžže piâssâm.
+# text_fi = mereen menivät, mahtoiko joku päästä vai ei.
+"<mieʹrre>"
+        "miârr" N <sms> Sg Ill @ADVL> MAP:1232 SUBSTITUTE:1298
+"<mõʹnne>"
+          "mõõnnâd" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<leežž>"
+        "leeʹd" V <sms> IV Pot Sg3 SUBSTITUTE:1300
+"<kååʹtt>"
+          "kååʹtt" Pron <sms> Rel Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1305
+"<piâssâm>"
+          "piâssâd" V <sms> Act PrfPrc SUBSTITUTE:1300
+"<iʹlleʹžže>"
+        "iʹlla" V <sms> Neg Pot Sg3 SUBSTITUTE:1300
+"<piâssâm>"
+          "piâssâd" V <sms> Ind Prt ConNeg @+FMAINV IFF:590:IsItConNeg MAP:736 SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:12:46" endtime="0:12:49"
+# text = de i-ǥõl ni põõllâd tõk jiâ teänab puäʹđ.
+# text_fi = sitten ei pidä edes pelätä, ne eivät enää tule.
+"<de>"
+          "de" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<i-ǥõl>"
+        "i-ǥõl" ?
+"<ni>"
+          "ni" Pcle <sms> SUBSTITUTE:1308
+"<põõllâd>"
+          "põõllâd" V <sms> Inf @-FMAINV MAP:740 SUBSTITUTE:1300
+"<tõk>"
+          "tõt" Pron <sms> Dem Pl Nom SUBSTITUTE:1305
+"<jiâ>"
+        "ij" V <sms> Neg Ind Pl3 @+FAUXV MAP:727 SUBSTITUTE:1300
+"<teänab>"
+        "teänab" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<puäʹđ>"
+  >>     "pueʹtted" V Ind Prs ConNeg IFF:590:IsItConNeg
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:13:20" endtime="0:13:22"
+# text = Määdd vueʹlnn leäi sijdd.
+"<Määdd>"
+          "mädd" N <sms> Sg Gen SUBSTITUTE:1298
+"<vueʹlnn>"
+        "vueʹlnn" Po <sms> SUBSTITUTE:1303
+"<leäi>"
+        "leeʹd" V <sms> IV Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<sijdd>"
+        "sijdd" N <sms> Sg Nom SUBSTITUTE:1298
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:14:16" endtime="0:14:18"
+# text = Mon jiõm ǩeâlstõõl, täʹst lij sijdd.
+# text_fi = Minä en valehtele, tässä on kylä.
+"<Mon>"
+        "mon" Pron <sms> Pers Sg1 Nom @SUBJ> MAP:1151 SUBSTITUTE:1305
+"<jiõm>"
+          "ij" V <sms> Neg Ind Sg1 @+FAUXV MAP:727 SUBSTITUTE:1300
+"<ǩeâlstõõl>"
+          "ǩeâlstõõllâd" V <sms> Ind Prs ConNeg @+FMAINV IFF:590:IsItConNeg MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<täʹst>"
+          "täʹst" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<lij>"
+        "leeʹd" V <sms> IV Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<sijdd>"
+        "sijdd" N <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:16:58" endtime="0:17:00"
+# text = tän-a kååʹll ton vuäǯǯak, jos vuõiʹǧǧest säärnak.
+# text_fi = tämän kullan sinä saat, jos suoraan sanot.
+"<tän-a>"
+          "tät" Det Dem Sg Acc Qst/a @OBJ> MAP:1283
+"<kååʹll>"
+          "kåʹll" N <sms> Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1298
+"<ton>"
+        "ton" Pron <sms> Pers Sg2 Nom SUBSTITUTE:1305
+"<vuäǯǯak>"
+        "vuäǯǯad" V <sms> Ind Prs Sg2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<jos>"
+        "jos" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<vuõiʹǧǧest>"
+        "vuõiʹǧǧest" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<säärnak>"
+        "särnnad" V <sms> Ind Prs Sg2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:20:23" endtime="0:20:25"
+# text = Na gu šõõddi tuejjuum, ni mâiʹd tõõzz tuejj.
+# text_if = No kun tuli tehtyä, niin mitä sille tekee.
+"<Na>"
+        "na" Interj <sms> Interj <sms> SUBSTITUTE:1302
+"<gu>"
+        "gu" ?
+"<šõõddi>"
+          "šõddâd" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<tuejjuum>"
+          "tuejjeed" V <sms> Pass PrfPrc SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<ni mâiʹd>"
+        "ni mâiʹd" Adv <sms> SUBSTITUTE:1299
+"<tõõzz>"
+        "tõt" Pron <sms> Dem Sg Ill @<ADVL MAP:1234 SUBSTITUTE:1305
+"<tuejj>"
+        "tuâjj" N <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:20:10" endtime="0:20:12"
+# text = Tõk âʹlǧǧe jieʹllmen puʹhtted.
+# text_fi = Ne pitää tuoda elävinä.
+"<Tõk>"
+          "tõt" Pron <sms> Dem Pl Nom @SUBJ> MAP:1151 SUBSTITUTE:1305
+"<âʹlǧǧe>"
+        "õlggâd" V <sms> Ind Prs Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<jieʹllmen>"
+          "jieʹlled" V <sms> Actio Ess SUBSTITUTE:1300
+"<puʹhtted>"
+          "puʹhtted" V <sms> Inf SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:21:28" endtime="0:21:31"
+# text = De ååʹn jeäʹla teänab nåkkam sääʹm, ååʹn liâ puuttâm puk.
+# text_fi = Ja nyt ei ole enää sellaisia kolttia, nyt ovat loppuneet.
+"<De>"
+          "de" CC <sms> SUBSTITUTE:1306
+"<ååʹn>"
+        "ååʹn" Adv <sms> Sem/Time @ADVL> MAP:1203 SUBSTITUTE:1299
+"<jeäʹla>"
+  >>     "iʹlla" V Neg Ind Prs Pl3 @+FAUXV MAP:727 REMOVE:759:Pl3
+"<teänab>"
+        "teänab" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<nåkkam>"
+          "nåkkam" Det Attr
+"<sääʹm>"
+          "sääʹmm" N <sms> Pl Nom SELECT:636:npl SUBSTITUTE:1298
+"<,>"
+        "," CLB
+"<ååʹn>"
+        "ååʹn" Adv <sms> Sem/Time @ADVL> MAP:1203 SUBSTITUTE:1299
+"<liâ>"
+        "leeʹd" V <sms> IV Ind Prs Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<puuttâm>"
+          "puuttâd" V <sms> Act PrfPrc SELECT:748:PrfPrc SUBSTITUTE:1300
+"<puk>"
+        "puk" Pron <sms> Pron <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1305
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:21:31" endtime="0:21:33"
+# text = Nåkkam viõkksääʹm teänab jeäʹla.
+# text_fi = Sellaisia voimakolttia ei enää ole.
+"<Nåkkam>"
+          "nåkkam" Det Attr
+"<viõkksääʹm>"
+          "sääʹmm" N <sms> Pl Nom SUBSTITUTE:1298
+                "viõkk" N Cmp/SgNom Cmp
+"<teänab>"
+        "teänab" Adv <sms> SUBSTITUTE:1299
+"<jeäʹla>"
+  >>     "iʹlla" V Neg Ind Prs Pl3 @+FAUXV MAP:733 REMOVE:759:Pl3
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:22:09" endtime="0:22:11"
+# text = Čuuʹt leʹjje occanj sääʹm.
+# text_fi = Liian oli vähän kolttia.
+"<Čuuʹt>"
+        "čuuʹt" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<leʹjje>"
+        "leeʹd" V <sms> IV Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<occanj>"
+        "occanj" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<sääʹm>"
+          "sääʹmm" N <sms> Pl Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:22:16" endtime="0:22:19"
+# text = Tõn määiʹnest occkaž leäi sääʹmsokk.
+# text_fi = Siitä syystä pieni oli kolttasuku.
+"<Tõn>"
+          "tõt" Det Dem Sg Gen
+"<määiʹnest>"
+          "määiʹnest" Adp
+"<occkaž>"
+          "occkaž" A <sms> Sg Nom SUBSTITUTE:1297
+"<leäi>"
+        "leeʹd" V <sms> IV Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<sääʹmsokk>"
+        "sääʹmsookk" N <sms> Sg Nom SUBSTITUTE:1298
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:25:40" endtime="0:25:47"
+# text = Teeʹst hiâvte puk oummid ja puäʹldde ceerkav, tõn õlggveʹted tieʹtted.
+# text_fi = Teiltä tappavat kaikki ihmiset ja polttavat kirkon, se teidän pitää tietää.
+"<Teeʹst>"
+  >>     "ton" Pron Pers Pl2 Loc SELECT:636:npl
+"<hiâvte>"
+          "hiâvted" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<puk>"
+        "puk" Pron <sms> Pron <sms> Sg Nom SUBSTITUTE:1305
+"<oummid>"
+  >>     "ooumaž" N Pl Acc SELECT:817:NPlIll
+"<ja>"
+        "ja" CC <sms> @CVP MAP:724 SUBSTITUTE:1306
+"<puäʹldde>"
+        "puäʹldded" V <sms> Ind Prs Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<ceerkav>"
+          "ceerkav" N <sms> Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1298
+"<,>"
+        "," CLB
+"<tõn>"
+          "tõt" Det Dem Sg Acc @OBJ> MAP:1283
+"<õlggveʹted>"
+        "õlggâd" V <sms> Ind Prs Pl2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<tieʹtted>"
+        "tieʹtted" ?
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:25:49" endtime="0:25:51"
+# text = Na teʹl jälste puk vaareeʹl
+# text_fi = No silloin asuivat kaikki varoen
+"<Na>"
+        "na" Interj <sms> Interj <sms> SUBSTITUTE:1302
+"<teʹl>"
+          "teʹl" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<jälste>"
+          "jälsted" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<puk>"
+        "puk" Pron <sms> Pron <sms> Sg Nom SUBSTITUTE:1305
+"<vaareeʹl>"
+        "vaarrâd" V <sms> Ger Instr SUBSTITUTE:1300
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:26:58" endtime="0:27:00"
+# text = Tän-a ko juulast, iʹlla gu võrr.
+# text_fi = Tätä kun hörppää, ei ole kuin verta.
+"<Tän-a>"
+          "tät" Det Dem Sg Acc Qst/a @OBJ> MAP:1283
+"<ko>"
+        "ko" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<juulast>"
+        "juulast" V Ind Prs Sg3
+"<,>"
+        "," CLB
+"<iʹlla>"
+        "iʹlla" V <sms> Neg Ind Prs Sg3 @+FAUXV MAP:733 SUBSTITUTE:1300
+"<gu>"
+        "gu" ?
+"<võrr>"
+          "võrr" N <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:27:01" endtime="0:27:04"
+# text = Vueʹlǧǧii leeʹttes tok joʹǩǩe.
+# text_fi = Nakkasi astiansa sinne jokeen.
+"<Vueʹlǧǧii>"
+          "vueʹlǧǧeed" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<leeʹttes>"
+          "leʹtt" N <sms> Sg Acc PxSg3 @OBJ> MAP:1283 SUBSTITUTE:1298
+"<tok>"
+        "tok" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<joʹǩǩe>"
+          "jokk" Hom1 N <sms> Sg Ill @<ADVL MAP:1234 SUBSTITUTE:1298
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:28:01" endtime="0:28:03"
+# text = Sij jiâ teänab ni koon årra vueʹlj
+# text_fi = He eivät enää mihinkään päin lähde
+"<Sij>"
+          "son" Pron <sms> Pers Pl3 Nom @SUBJ> MAP:1151 SUBSTITUTE:1305
+"<jiâ>"
+        "ij" V <sms> Neg Ind Pl3 @+FAUXV MAP:727 SUBSTITUTE:1300
+"<teänab>"
+        "teänab" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<ni>"
+          "ni" Pcle <sms> SUBSTITUTE:1308
+"<koon årra>"
+        "koon årra" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<vueʹlj>"
+  >>     "vueʹlǧǧed" V Ind Prs ConNeg IFF:590:IsItConNeg
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:28:25" endtime="0:28:31"
+# text = De mâŋŋa luostar leʹjje tõn, koon ko sij puäʹldde, de mâŋŋa de ođđ tuejjee tõõzz.
+# text_fi = Ja myöhemmin olivat luostarin sen, jonka he polttivat, niin myöhemmin tekivät siihen uuden.
+"<De>"
+        "de" CC <sms> SELECT:897:CCCS SUBSTITUTE:1306
+"<mâŋŋa>"
+        "mâŋŋa" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<luostar>"
+        "luostar" N Sg Acc
+"<leʹjje>"
+        "leeʹd" V <sms> IV Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<tõn>"
+          "tõt" Det Dem Sg Acc @OBJ> MAP:1283
+"<,>"
+        "," CLB
+"<koon>"
+          "kååʹtt" Pron <sms> Rel Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1305
+"<ko>"
+        "ko" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<sij>"
+          "son" Pron <sms> Pers Pl3 Nom @<SUBJ MAP:1158 SUBSTITUTE:1305
+"<puäʹldde>"
+        "puäʹldded" V <sms> Ind Prs Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<de>"
+          "de" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
+"<mâŋŋa>"
+        "mâŋŋa" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<de>"
+          "de" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
+"<ođđ>"
+        "oođâs" A <sms> Attr SUBSTITUTE:1297
+"<tuejjee>"
+          "tuejjeed" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<tõõzz>"
+        "tõt" Pron <sms> Dem Sg Ill @<ADVL MAP:1234 SUBSTITUTE:1305
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:31:56" endtime="0:31:58"
+# text = Kauppjõs kååččai jiiʹjjes årra.
+# text_fi = Kauppias kutsui luoksensa.
+"<Kauppjõs>"
+        "kauppjõs" N <sms> Sg Nom @SUBJ> MAP:1151 SUBSTITUTE:1298
+"<kååččai>"
+          "kåččad" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<jiiʹjjes>"
+          "jiõčč" Pron <sms> Refl Sg3 Gen SUBSTITUTE:1305
+"<årra>"
+          "årra" Po <sms> SUBSTITUTE:1303
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:31:59" endtime="0:32:02"
+# text = Ceälkk: Jeäʹl tääiʹben, jos vueʹljžiǩ, di jeäʹl tääiʹben.
+# text_fi = Sanoo: Käy täällä jos lähtenet niin käy täällä.
+"<Ceälkk>"
+        "ceäʹlǩǩed" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<:>"
+        ":" CLB
+"<Jeäʹl>"
+          "jieʹlled" V <sms> Imprt Sg2 @+FAUXV MAP:733 SUBSTITUTE:1300
+"<tääiʹben>"
+        "tääiʹben" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<,>"
+        "," CLB
+"<jos>"
+        "jos" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<vueʹljžiǩ>"
+        "vueʹlǧǧed" V <sms> Pot Sg2 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<di>"
+        "di" CC <sms> SUBSTITUTE:1306
+"<jeäʹl>"
+          "jieʹlled" V <sms> Imprt Sg2 @+FAUXV MAP:733 SUBSTITUTE:1300
+"<tääiʹben>"
+        "tääiʹben" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:32:13" endtime="0:32:15"
+# text = Ååʹn kâʹl vuäǯǯak vueʹlǧǧed.
+# text_fi = Nyt kyllä saat lähteä.
+"<Ååʹn>"
+        "ååʹn" Adv <sms> Sem/Time @ADVL> MAP:1203 SUBSTITUTE:1299
+"<kâʹl>"
+        "kâʹl" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<vuäǯǯak>"
+        "vuäǯǯad" V <sms> Ind Prs Sg2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<vueʹlǧǧed>"
+          "vueʹlǧǧed" V <sms> Inf SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:01:18" endtime="0:01:21"
+# text = Näʹde ååʹn son puõʹđi tuin heäibbad.
+# text_fi = No nyt hän tuli sinun kanssa painimaan.
+"<Näʹde>"
+        "näʹde" Interj <sms> IFF:468:S_Interj IFF:468:S_Interj IFF:468:S_Interj SUBSTITUTE:1302
+"<ååʹn>"
+        "ååʹn" Adv <sms> Sem/Time @ADVL> MAP:1203 SUBSTITUTE:1299
+"<son>"
+        "son" Pron <sms> Pers Sg3 Nom SUBSTITUTE:1305
+"<puõʹđi>"
+          "pueʹtted" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<tuin>"
+          "ton" Pron <sms> Pers Sg2 Com @<ADVL MAP:1226 SUBSTITUTE:1305
+"<heäibbad>"
+        "heäibbad" ?
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:01:30" endtime="0:01:33"
+# text = No mõnt šât tij vââʹžž kueʹddveʹted muu ool?
+# text_fi = No miksi sitten vihaatte minua?
+"<No>"
+        "no" Interj <sms> IFF:468:S_Interj IFF:468:S_Interj SUBSTITUTE:1302
+"<mõnt>"
+          "mõʹnt" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<šât>"
+          "šât" Pcle <sms> SUBSTITUTE:1308
+"<tij>"
+          "ton" Pron <sms> Pers Pl2 Nom SUBSTITUTE:1305
+"<vââʹžž>"
+          "vââʹšš" N <sms> Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1298
+"<kueʹddveʹted>"
+        "kueʹdded" V <sms> Ind Prs Pl2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<muu>"
+          "mon" Pron <sms> Pers Sg1 Gen SUBSTITUTE:1305
+"<ool>"
+        "ool" Adp
+"<?>"
+        "?" CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:01:41" endtime="0:01:46"
+# text = Son leäi njuõckksab ooumaž ja häävji tiõttlõs, ko iʹllääm nuʹt viõkkâs.
+# text_fi = Hän oli kömpelömpi mies ja hävisi tietysti, kun ei ollut niin voimakas.
+"<Son>"
+        "son" Pron <sms> Pers Sg3 Nom @SUBJ> MAP:1151 SUBSTITUTE:1305
+"<leäi>"
+        "leeʹd" V <sms> IV Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<njuõckksab>"
+          "njuõckâs" A <sms> Comp Attr SELECT:547:AttrNotNom SUBSTITUTE:1297
+"<ooumaž>"
+        "ooumaž" N <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<ja>"
+        "ja" CC <sms> @CVP MAP:724 SUBSTITUTE:1306
+"<häävji>"
+        "hääʹvjed" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<tiõttlõs>"
+        "tiõttlõs" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<,>"
+        "," CLB
+"<ko>"
+        "ko" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<iʹllääm>"
+        "iʹlla" V <sms> Neg Ind Prt Sg3 @+FAUXV MAP:733 SUBSTITUTE:1300
+"<nuʹt>"
+        "nuʹtt" Adv <sms> Err/Orth @<ADVL MAP:1206 SUBSTITUTE:1299
+"<viõkkâs>"
+          "viõkkâs" A <sms> Attr SUBSTITUTE:1297
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:02:08" endtime="0:02:12"
+# text = Joo, čuõʹǧǧe, ååʹn čuõʹǧǧe muu neeiʹbin tuu.
+# text_fi = Joo, pistä, nyt pistä minun puukolla sinua.
+"<Joo>"
+  >>     "joo" Interj Interj IFF:468:S_Interj
+"<,>"
+        "," CLB
+"<čuõʹǧǧe>"
+        "čuõʹǧǧe" ?
+"<,>"
+        "," CLB
+"<ååʹn>"
+        "ååʹn" Adv <sms> Sem/Time SUBSTITUTE:1299
+"<čuõʹǧǧe>"
+        "čuõʹǧǧe" ?
+"<muu>"
+          "mon" Pron <sms> Pers Sg1 Gen SUBSTITUTE:1305
+"<neeiʹbin>"
+          "neiʹbb" N <sms> Sg Com SUBSTITUTE:1298
+"<tuu>"
+          "ton" Pron <sms> Pers Sg2 Acc @<OBJ MAP:1284 SUBSTITUTE:1305
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:02:37" endtime="0:02:39"
+# text = Tät iʹlleʹjje ni mâiʹd tuejjeed.
+# text_fi = Tämä ei olisi mitään tehnyt.
+"<Tät>"
+          "tät" Pron <sms> Dem Sg Nom SUBSTITUTE:1305
+"<iʹlleʹjje>"
+        "iʹlla" V <sms> Neg Cond Sg3 SUBSTITUTE:1300
+"<ni mâiʹd>"
+        "ni mâiʹd" Adv <sms> SUBSTITUTE:1299
+"<tuejjeed>"
+          "tuejjeed" V <sms> Inf SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:06:23" endtime="0:06:28"
+# text = Ouddǩeeʹjjest sookk ooumaž ja mâʹŋŋǩeeʹjjest seämmanalla sookk ko mäʹhtt ouddǩeeʹjjest.
+# text_fi = Etupäässä soutaa mies ja peräpäässä samalla tavalla soutaa kuin miten etupäässä.
+"<Ouddǩeeʹjjest>"
+        "Ouddǩeeʹjjest" ?
+"<sookk>"
+          "suukkâd" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<ooumaž>"
+        "ooumaž" N <sms> Sg Nom SUBSTITUTE:1298
+"<ja>"
+        "ja" CC <sms> @CVP MAP:724 SUBSTITUTE:1306
+"<mâʹŋŋǩeeʹjjest>"
+        "mâʹŋŋǩeeʹjjest" ?
+"<seämmanalla>"
+        "seämmanalla" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<sookk>"
+          "suukkâd" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<ko>"
+        "ko" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
+"<mäʹhtt>"
+          "mäʹhtt" Adv <sms> SUBSTITUTE:1299
+"<ouddǩeeʹjjest>"
+        "ouddǩeeʹjjest" ?
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:06:51" endtime="0:06:54"
+# text = Di tõid-a pokkum reeiʹjid puk tõʹppe.
+# text_fi = Ja ne poratut reiät kaikki tukkivat.
+"<Di>"
+        "di" CC <sms> SUBSTITUTE:1306
+"<tõid-a>"
+          "tõt" Det Dem Pl Acc Qst/a @OBJ> MAP:1283
+"<pokkum>"
+        "pookkâd" V <sms> Pass PrfPrc SUBSTITUTE:1300
+"<reeiʹjid>"
+        "reeiʹjid" ?
+"<puk>"
+        "puk" Pron <sms> Pron <sms> Sg Nom SUBSTITUTE:1305
+"<tõʹppe>"
+        "tõppâd" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:07:11" endtime="0:07:13"
+# text = Ton jeäʹl ǩieʹmn viǯǯmen.
+# text_fi = Käy sinä hakemassa pata.
+"<Ton>"
+        "ton" Pron <sms> Pers Sg2 Nom @SUBJ> MAP:1151 SUBSTITUTE:1305
+"<jeäʹl>"
+          "jieʹlled" V <sms> Imprt Sg2 @+FAUXV MAP:727 SUBSTITUTE:1300
+"<ǩieʹmn>"
+        "ǩieʹmn" ?
+"<viǯǯmen>"
+          "viǯǯâd" V <sms> Actio Ess SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:08:06" endtime="0:08:09"
+# text = No mäʹhtt tät õs nääiʹt šõõddi?
+# text_fi = No miten tämäkin tällä tavalla tapahtui?
+"<No>"
+        "no" Interj <sms> IFF:468:S_Interj IFF:468:S_Interj IFF:468:S_Interj SUBSTITUTE:1302
+"<mäʹhtt>"
+          "mäʹhtt" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<tät>"
+          "tät" Pron <sms> Dem Sg Nom SUBSTITUTE:1305
+"<õs>"
+        "õs" ?
+"<nääiʹt>"
+        "nääiʹt" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<šõõddi>"
+          "šõddâd" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<?>"
+        "?" CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:08:24" endtime="0:08:29"
+# text = Teʹl mij leeiʹm vueiʹtted suu kåʹdded, mutta nääiʹt šõõddi puästtad.
+# text_fi = Silloin me olisimme voineet sen tappaa, mutta näin tuli väärin.
+"<Teʹl>"
+          "teʹl" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<mij>"
+          "mon" Pron <sms> Pers Pl1 Nom SUBSTITUTE:1305
+"<leeiʹm>"
+        "leeʹd" V <sms> IV Ind Prt Pl1 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<vueiʹtted>"
+          "vueiʹtted" V <sms> Inf SUBSTITUTE:1300
+"<suu>"
+          "son" Pron <sms> Pers Sg3 Acc @OBJ> MAP:1283 SUBSTITUTE:1305
+"<kåʹdded>"
+          "kåʹdded" V <sms> Inf SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<mutta>"
+        "mutta" Err/Lex
+"<nääiʹt>"
+        "nääiʹt" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
+"<šõõddi>"
+          "šõddâd" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<puästtad>"
+        "puästtad" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:13:07" endtime="0:13:11"
+# text = Mõʹnne, eʹpet mõʹnne, mõʹnne, de kueʹtt seeʹst lij tuejjuum.
+# text_fi = Menivät, taas menivät, menivät ja heillä on kota tehty.
+"<Mõʹnne>"
+        "mõʹnnʼjed" V <sms> Imprt Sg2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<eʹpet>"
+        "eʹpet" Adv <sms> Sem/Time @ADVL> MAP:1203 SUBSTITUTE:1299
+"<mõʹnne>"
+          "mõõnnâd" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<mõʹnne>"
+        "mõʹnnʼjed" V <sms> Imprt Sg2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<de>"
+        "de" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
+"<kueʹtt>"
+        "kueʹtt" N <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1298
+"<seeʹst>"
+        "son" Pron <sms> Pers Pl3 Loc SUBSTITUTE:1305
+"<lij>"
+        "leeʹd" V <sms> IV Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<tuejjuum>"
+          "tuejjeed" V <sms> Pass PrfPrc SUBSTITUTE:1300
+"<.>"
+        "." CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:16:08" endtime="0:16:09"
+# text = Mii leäk oummid?
+# text_fi = Mikä olet miehiäsi?
+"<Mii>"
+          "mii" Pron <sms> Interr Sg Nom @SUBJ> SELECT:950:InterrNotRel MAP:1151 SUBSTITUTE:1305
+"<leäk>"
+        "leeʹd" V <sms> IV Ind Prs Sg2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<oummid>"
+        "ooumaž" N <sms> Pl Ill @<ADVL SELECT:817:NPlIll MAP:1234 SUBSTITUTE:1298
+"<?>"
+        "?" CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:19:50" endtime="0:19:53"
+# text = Na veâl-a leäk ǩeâvvmen?
+# text_fi = No vieläkö olet säikkymässä?
+"<Na>"
+        "na" Interj <sms> Interj <sms> SUBSTITUTE:1302
+"<veâl-a>"
+        "veâl" Adv <sms> Qst/a @ADVL> MAP:1203 SUBSTITUTE:1299
+"<leäk>"
+        "leeʹd" V <sms> IV Ind Prs Sg2 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<ǩeâvvmen>"
+        "ǩeâvvad" V <sms> Actio Ess SUBSTITUTE:1300
+"<?>"
+        "?" CLB
+
+# sent_id = 11308_1bz
+# aannotation="no" begintime="0:22:17" endtime="0:22:20"
+# text = Ja tõʹst kuäʹđest mâiʹd kauʹnne, tõid puk vaʹldde.
+# text_fi = Ja siitä kodasta mitä löysivät, sen kaiken ottivat.
+"<Ja>"
+        "ja" CC <sms> SUBSTITUTE:1306
+"<tõʹst>"
+          "tõt" Det Dem Sg Loc
+"<kuäʹđest>"
+        "kueʹtt" N <sms> Sg Loc SUBSTITUTE:1298
+"<mâiʹd>" Tämän pitäisi olla objekti
+        "mâiʹd" Pron Acc
+"<kauʹnne>"
+        "kaunnâd" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<,>"
+        "," CLB
+"<tõid>"
+          "tõt" Pron <sms> Dem Pl Acc @OBJ> MAP:1283 SUBSTITUTE:1305
+"<puk>"
+        "puk" Pron <sms> Pron <sms> Sg Nom @<SUBJ MAP:1158 SUBSTITUTE:1305
+"<vaʹldde>"
+        "väʹldded" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
+"<.>"
+        "." CLB
+

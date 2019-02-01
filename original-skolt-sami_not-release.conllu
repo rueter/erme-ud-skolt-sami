@@ -15,89 +15,51 @@
 # text = Joordam što âbrr.
 # text_fi = Luulen että sataa.
 1	Joordam	juʹrdded	VERB	V	Ind|Prs|Sg1	0	root	_	_
-2	što		što	CS	CS	_	3	mark	_	_
-3	âbrr		âʹbrred	VERB	V	Ind|Prs|Sg3	1	ccomp	_	_
-4	.		.	PUNCT	CLB	_	1	punct	_	_
+2	što	što	CS	CS	_	3	mark	_	_
+3	âbrr	âʹbrred	VERB	V	Ind|Prs|Sg3	1	ccomp	_	_
+4	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:3
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
 # text = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
 # text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
-"<Son>"
-        "son" Pron Pers Sg3 Nom 
-: 
-"<ǩiččlõõddi>"
-        "ǩiččlõddâd" V Ind Prt Sg3 
-: 
-"<looppted>"
-        "looppted" V Inf
-: 
-"<tääbbaǩ>"
-        "tääbbaǩ" N Pl Nom 
-        "tääbbaǩ" N Sg Acc 
-        "tääbbaǩ" N Sg Gen
-        "tääbbaǩ" N Sg Nom 
-: 
-"<puälddmõõžž>"
-        "puälddmõš" N Pl Nom
-        "puälddmõš" N Sg Acc 
-        "puälddmõš" N Sg Gen
-: 
-"<da>"
-        "da" CC 
-: 
-"<veeiʹn>"
-        "veiʹnn" N Pl Nom 
-        "veiʹnn" N Sg Acc 
-        "veiʹnn" N Sg Gen
-: 
-"<juukkmõõžž>"
-        "juukkmõš" N Pl Nom
-        "juukkmõš" N Sg Acc 
-        "juukkmõš" N Sg Gen
-"<.>"
-        "." CLB
+1 Son	son	Pron   _	Pers|Sg3|Nom   2	nsubj	_	_
+2 ǩiččlõõddi	ǩiččlõddâd	VERB	V	_	Ind|Prt|Sg3	0	root	_	_
+3 looppted	looppted	VERB	V	_	Inf	2	xcomp	_	_
+4 tääbbaǩ	tääbbaǩ		NOUN	N	_	Sg|Gen	5	obl	_	_
+5 puälddmõõžž	puälddmõš	NOUN	N	_	Sg|Acc	3	obj	_	_
+6 da	da		CC	CC	_	_	8	cc	_	_
+7 veeiʹn	veiʹnn		NOUN	N	_	Sg|Gen	8	obj	_	_
+8 juukkmõõžž	juukkmõš	NOUN	N	_	Sg|Acc	5	conj	_	_
+9 .	.	CLB	CLB	_	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:4
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
 # text = Haaʹlääk-a mõõnnâd?
 # text_fi = Haluatko mennä?
-"<Haaʹlääk-a>"
-        "haaʹleed" V Ind Prs Sg2 Qst/a 
-: 
-"<mõõnnâd>"
-        "mõõnnâd" V Inf
-"<?>"
-        "?" CLB
+1 Haaʹlääk-a	     haaʹleed	VERB	V	Ind|Prs|Sg2|Qst/a	0	root	_	_
+2 mõõnnâd	     mõõnnâd	VERB	V	Inf			1	ccomp	_	_
+3 ?		     ?		CLB	CLB	_			1	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:5
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
 # text = Ääʹved ikkân Sam!
 # text_fi = Avaa ikkuna Sam!
-"<Ääʹved>"
-        "ääʹveed" V Imprt Sg2 
-: 
-"<ikkân>"
-        "ikkân" N Pl Nom
-        "ikkân" N Sg Acc 
-        "ikkân" N Sg Gen
-        "ikkân" N Sg Nom
-: 
-"<Sam>"
-        "Sam" N Prop Sg Nom
-"<!>"
-        "!" CLB
+1 Ääʹved  ääʹveed	VERB	V	Imprt|Sg2	0	root	_	_
+2 ikkân	  ikkân		NOUN	N	Sg|Acc		1	obj	_	_
+3 Sam	  Sam		NOUN	N	Prop|Sg|Nom	1	vocative	_	_
+4 !	  !		CLB	CLB	_		1	punct		_	_
 
 # sent_id = FofonoffHilkka_brat_2018:6
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
 # text = Son piiji kuõjâs põõssâd aaut.
 # text_fi = Hän pani miehensä pesemään auton.
-1	Son	son	Pron	_	Pers|Sg3|Nom	2	nsubj	_	_
-2	piiji		piijjâd	V	_	Ind|Prt|Sg3	0	root	_	_
-3	kuõjâs		kuõjj	N	_	Sem/Kin|Sg|Acc|PxSg3	2	obj	_	_
-4	põõssâd	põõssâd	V	_	Inf	2	xcomp	_	_
-5	aaut		autt	N	_	Sg|Acc	4	obj	_	_
-6	.		.	PUNCT	_	_	2	punct	_	_
+1	Son	son	PRON	Pron	Pers|Sg3|Nom	2	nsubj	_	_
+2	piiji	piijjâd	VERB	V	Ind|Prt|Sg3	0	root	_	_
+3	kuõjâs	kuõjj	NOUN	N	Sem/Kin|Sg|Acc|PxSg3	2	obj	_	_
+4	põõssâd	põõssâd	VERB	V	Inf	2	xcomp	_	_
+5	aaut	autt	NOUN	N	Sg|Acc	4	obj	_	_
+6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:7
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -125,77 +87,28 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
 # text = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
 # text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
-"<Mary>"
-        "Mary" N Prop Sem/Fem Sg Gen
-: 
-"<vuäǯǯai>"
-        "vuäǯǯai" N Pl Nom 
-        "vuäǯǯai" N Sg Acc 
-        "vuäǯǯai" N Sg Gen
-        "vuäǯǯai" N Sg Nom 
-        "vuäǯǯad" V Act PrsPrc
-        "vuäǯǯad" V Act PrsPrc Pl Nom 
-        "vuäǯǯad" V Act PrsPrc Sg Nom 
-        "vuäǯǯad" V Ind Prt Sg3 
-: 
-"<proons>"
-        "pronss" N Pl Nom
-        "pronss" N Sg Acc 
-        "pronss" N Sg Gen
-"<,>"
-        "," CLB
-: 
-"<Peter>"
-        "Peter" N Prop Sem/Mal Sg Gen Allegro
-: 
-"<siilb>"
-        "silbb" N Pl Nom 
-        "silbb" N Sg Acc 
-        "silbb" N Sg Gen
-: 
-"<da>"
-        "da" CC 
-: 
-"<Jane>"
-        "Jane" Sem/Fem Pl Nom 
-        "Jane" Sem/Fem Sg Acc 
-        "Jane" Sem/Fem Sg Gen
-        "Jane" Sem/Fem Sg Ill
-        "Jane" Sem/Fem Sg Nom 
-: 
-"<kååʹll>"
-        "kåʹll" N Pl Nom
-        "kåʹll" N Sg Acc 
-        "kåʹll" N Sg Gen
-"<.>"
-        "." CLB
+1	Mary	Mary	NPROP	N	Prop|Sem/Fem|Sg|Nom	2	nsubj	_	_
+2	vuäǯǯai	vuäǯǯad	VERB	V	Ind|Prt|Sg3	0	root	_	_
+3	proons	pronss	NOUN	N	Sg|Acc	2	obj	_	_
+4	,	,	CLB	CLB	_	5	punct	_	_
+5	Peter	Peter	NPROP	N	Prop|Sem/Mal|Sg|Nom	2	conj	_	_
+6	siilb	silbb	NOUN	N	Sg|Acc	5	orphan	_	_
+7	da	da	CONJ	CC	_	8	cc	_	_
+8	Jane	Jane	NPROP	N	Prop|Sem/Fem|Sg|Nom	2	conj	_	_
+9	kååʹll	kåʹll	NOUN	N	Sg|Acc	8	orphan	_	_
+10	.	.	CLB	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:10
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
 # text = Lij-a Iguazu jõnn avi uʹcc jânnam?
 # text_fi = Onko Iguazu iso vai pieni maa?
-"<Lij-a>"
-        "leeʹd" V IV Ind Prs Sg3 Qst/a 
-: 
-"<Iguazu>"
-        "Iguazu" ?
-: 
-"<jõnn>"
-        "jõnn" A Attr
-: 
-"<avi>"
-        "avi" CC
-: 
-"<uʹcc>"
-        "uʹcc" A Sg Nom 
-: 
-"<jânnam>"
-        "jânnam" N Pl Nom
-        "jânnam" N Sg Acc 
-        "jânnam" N Sg Gen
-        "jânnam" N Sg Nom
-"<?>"
-        "?" CLB
+1	Lij-a	leeʹd	AUX	V	IV|Ind|Prs|Sg3|Qst/a	6	cop	_	_
+2	Iguazu	Iguazu	NOUN	N	Prop|Sg|Nom	6	nsubj	_	_
+3	jõnn	jõnn	ADJ	A	Attr	6	amod	_	_
+4	avi	avi	CCONJ	CC	_	5	cc	_	_
+5	uʹcc	uʹcc	ADJ	A	Attr	3	conj	_	_
+6	jânnam	jânnam	NOUN	N	Sg|Nom	0	root	_	_
+7	?	?	CLB	CLB	_	6	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:11
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
@@ -203,49 +116,21 @@
 # text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
 "<Nuʹtt>"
         "nuʹtt" Adv 
-        "nuʹtt" Pcle
-: 
 "<kuâđđje>"
-        "kuâđđjed" V Ind Prs Pl3 
         "kuâđđjed" V Ind Prt Pl3 
-: 
 "<vaʹlljeeǩâni>"
         "vaʹlljeed" V VAbess
-: 
 "<Peter>"
         "Peter" N Prop Sem/Mal Attr
-        "Peter" N Prop Sem/Mal Cmp/SgNom
-        "Peter" N Prop Sem/Mal Sg Acc 
-        "Peter" N Prop Sem/Mal Sg Gen Allegro
-: 
 "<Smith>"
         "Smith" N Prop Sem/Sur Sg Nom 
-        "Smith" N Prop Sem/Sur Cmp/SgNom
-        "Smith" N Prop Sem/Sur Sg Acc 
-        "Smith" N Prop Sem/Sur Sg Gen
-: 
 "<diǥu>"
-        "diǥu" Adv 
         "diǥu" CS 
-: 
 "<še>"
-        "še" Adv
         "še" Pcle
-: 
 "<Mary>"
         "Mary" N Prop Sem/Fem Attr
-        "Mary" N Prop Sem/Fem Cmp/SgNom
-        "Mary" N Prop Sem/Fem Sg Acc 
-        "Mary" N Prop Sem/Fem Sg Gen
-: 
 "<Brown>"
-        "Brown" N Prop Sem/Plc Cmp/SgNom
-        "Brown" N Prop Sem/Plc Sg Acc 
-        "Brown" N Prop Sem/Plc Sg Gen
-        "Brown" N Prop Sem/Plc Sg Nom
-        "Brown" N Prop Sem/Sur Cmp/SgNom
-        "Brown" N Prop Sem/Sur Sg Acc 
-        "Brown" N Prop Sem/Sur Sg Gen
         "Brown" N Prop Sem/Sur Sg Nom
 "<.>"
         "." CLB
@@ -256,37 +141,18 @@
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
 "<Seeʹst>"
         "son" Pron Pers Pl3 Loc
-: 
 "<jeäʹla>"
         "jeäʹla" V V
-: 
 "<ǩeeʹrjteeʹjest>"
-        "ǩeeʹrjted" Ex/V Der/NomAg N Sg Loc
         "ǩeeʹrjteei" N Sg Loc
-: 
 "<võl>"
         "võl" Adv Sem/Time
-: 
 "<ni>"
-        "ni" Adv
         "ni" Pcle
-: 
 "<måkam>"
-        "måkam" A
         "måkam" Det Attr
-        "måkam" Det Pl Nom
-        "måkam" Det Sg Acc 
-        "måkam" Det Sg Gen
-        "måkam" Det Sg Nom
-: 
-: 
 "<jurddi>"
         "juurd" N Pl Nom
-        "juurd" N Sg Acc 
-        "juurd" N Sg Gen
-        "juʹrdded" V Act PrsPrc Sg Nom
-        "juʹrdded" V Act PrsPrc
-        "juʹrdded" V Act PrsPrc Pl Nom
 "<.>"
         "." CLB
 
@@ -295,9 +161,7 @@
 # text = Mâiʹd ǩiõččak?
 # text_fi = Mitä katsot?
 "<Mâiʹd>"
-        "mâiʹd"
-        "mâiʹd" Pron Pron Interr
-: 
+        "mâiʹd" Pron Interr Sg Acc
 "<ǩiõččak>"
         "ǩiõččâd" V Ind Prs Sg2 
 "<?>"
@@ -308,20 +172,13 @@
 # text = Mâiʹd joordak što kuäʹss piâzzčiǩ?
 # text_fi = Milloin luulet voivasi tulla?
 "<Mâiʹd>"
-        "mâiʹd"
-        "mâiʹd" Pron Pron Interr
-: 
+        "mâiʹd" Pron Interr Acc
 "<joordak>"
         "juʹrdded" V Ind Prs Sg2 
-: 
 "<što>"
         "što" CS 
-: 
 "<kuäʹss>"
         "kuäʹss" Adv
-        "kuäʹss" CS Sem/Time 
-        "kuäʹss" Pron Rel
-: 
 "<piâzzčiǩ>"
         "piâssâd" V Cond Sg2
 "<?>"
@@ -333,68 +190,20 @@
 # text_fi = Hän osti auton mutta veljensä vain pyörän.
 "<Son>"
         "son" Pron Pers Sg3 Nom 
-: 
 "<vueʹsti>"
-        "vueʹstti" N Pl Nom
         "vuäʹstted" V Ind Prt Sg3 
-        "vuäʹstted" V Act PrsPrc Pl Nom
-: 
 "<aaut>"
-        "aaut" N Pl Nom
-        "ahtt" N Pl Nom
-        "ahtt" N Sg Acc 
-        "ahtt" N Sg Gen
-        "autt" N Pl Nom
         "autt" N Sg Acc 
-        "autt" N Sg Gen
-: 
 "<da>"
         "da" CC
-: 
 "<väʹst>"
         "väʹst" Adv 
-: 
 "<viʹlljes>"
-        "villj" Ex/N"+Kin" Sem/Kin Der/N2A A Attr
-        "villj" Ex/N"+Kin" Sem/Kin Err/Orth Der/N2A A Attr
-: 
+        "villj" N Sem/Kin Sg Nom PxSg3
 "<pâi>"
         "pâi" Adv 
-        "pâi" CC
-: 
 "<tanccâmvuâjan>"
-        "vuâjan" N Pl Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
-        "vuâjan" N Sg Acc 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
-        "vuâjan" N Sg Gen
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
-        "vuâjan" N Sg Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp
-        "vuâjan" N Pl Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
-        "vuâjan" N Sg Acc 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
-        "vuâjan" N Sg Gen
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
-        "vuâjan" N Sg Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgGen Err/Orth Cmp
-        "vuâjan" N Pl Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
-        "vuâjan" N Sg Acc 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
-        "vuâjan" N Sg Gen
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
-        "vuâjan" N Sg Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Cmp
-        "vuâjan" N Pl Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
-        "vuâjan" N Sg Acc 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
-        "vuâjan" N Sg Gen
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
-        "vuâjan" N Sg Nom 
-                "tanccâd" Ex/V Der/NomAct N Cmp/SgNom Err/Orth Cmp
+        "tanccâmvuâjan" N Sg Acc 
 "<.>"
         "." CLB
 
@@ -403,50 +212,20 @@
 # text = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
 # text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
 "<Peter>"
-        "Peter" N Prop Sem/Mal Sg Gen Allegro
-: 
+        "Peter" N Prop Sem/Mal Sg Nom
 "<da>"
         "da" CC 
-: 
 "<Mary>"
         "Mary" N Prop Sem/Fem Sg Nom 
-        "Mary" N Prop Sem/Fem Cmp/SgNom
-        "Mary" N Prop Sem/Fem Sg Acc 
-        "Mary" N Prop Sem/Fem Sg Gen
-: 
 "<âskkõʹlle>"
-        "âskkeed" Ex/V Der/oollyd Ind Prt Pl3 
         "âskkõõllâd" V Ind Prt Pl3 
-: 
 "<da>"
         "da" CC 
-: 
 "<liõʹhtte>"
-        "liõhttâd" V Ind Prs Pl3 
         "liõhttâd" V Ind Prt Pl3 
-: 
 "<meädda>"
         "meädda" Adv 
-: 
 "<lõõnjâst>"
-        "âstt" N Pl Nom 
-                "lõnnj" Ex/N Der/Dimin N Cmp/PlGen Err/Orth Cmp
-        "âstt" N Sg Acc 
-                "lõnnj" Ex/N Der/Dimin N Cmp/PlGen Err/Orth Cmp
-        "âstt" N Sg Gen
-                "lõnnj" Ex/N Der/Dimin N Cmp/PlGen Err/Orth Cmp
-        "âstt" N Pl Nom 
-                "lõnnj" N Cmp/PlGen Err/Orth Cmp
-        "âstt" N Sg Acc 
-                "lõnnj" N Cmp/PlGen Err/Orth Cmp
-        "âstt" N Sg Gen
-                "lõnnj" N Cmp/PlGen Err/Orth Cmp
-        "âstt" N Pl Nom 
-                "lõnnj" N Cmp/SgGen Err/Orth Cmp
-        "âstt" N Sg Acc 
-                "lõnnj" N Cmp/SgGen Err/Orth Cmp
-        "âstt" N Sg Gen
-                "lõnnj" N Cmp/SgGen Err/Orth Cmp
         "lõnnj" N Sg Loc
 "<.>"
         "." CLB
@@ -457,63 +236,38 @@
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
 "<Suʹst>"
         "son" Pron Pers Sg3 Loc
-: 
 "<leäi>"
         "leeʹd" V IV Ind Prt Sg3 
-: 
 "<õlggâm>"
         "õlggâd" V Act PrfPrc
-: 
 "<leeʹd>"
         "leeʹd" V IV Inf
-: 
 "<tõn>"
-        "tõt" Det Dem Sg Acc 
         "tõt" Det Dem Sg Gen
-        "tõt" Pron Dem Sg Acc 
-        "tõt" Pron Dem Sg Gen
-: 
 "<peeiʹv>"
-        "peiʹvv" N Pl Nom 
-        "peiʹvv" N Sg Acc 
         "peiʹvv" N Sg Gen
-: 
 "<čååǥǥâʹttmen>"
         "čååǥǥâʹttmen" ?
-: 
 "<vuõptees>"
-        "vuõptt" N Pl Ill PxSg3 
+        "vuõptt" N Pl Acc PxSg3 
 "<,>"
         "," CLB
-: 
 "<leša>"
-        "leša" Adv
         "leša" CC
-: 
 "<mii>"
-        "mii"
         "mii" Pron Rel Sg Nom 
-: 
 "<leežž>"
         "leeʹd" V IV Pot Sg3
-: 
 "<šõddâm>"
         "šõddâd" V Act PrfPrc
-: 
 "<ǥu>"
         "ǥu" CS 
-: 
 "<ij>"
         "ij" V Neg Ind Sg3 
-: 
 "<tâʹl>"
-        "tâʹl"
         "tâʹl" Adv Sem/Time 
-: 
 "<ni>"
-        "ni" Adv 
         "ni" Pcle
-: 
 "<vuäittam>"
         "vueiʹtted" V Act PrfPrc 
 "<.>"
@@ -525,39 +279,24 @@
 # text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
 "<Jiõm>"
         "ij" V Neg Ind Sg1 
-        "jiõm" V V
-: 
 "<pâsttam>"
         "pâʹstted" V Ind Prt ConNeg 
-: 
 "<seuʹrrjed>"
         "seuʹrrjed" V Inf
-: 
 "<suu>"
-        "son" Pron Pers Sg3 Acc 
         "son" Pron Pers Sg3 Gen
 : 
 "<urččmõõžž>"
-        "urččmõš" N Pl Nom 
         "urččmõš" N Sg Acc 
-        "urččmõš" N Sg Gen
-: 
 "<ǥu>"
         "ǥu" CS 
-: 
 "<son>"
         "son" Pron Pers Sg3 Nom
-: 
 "<leäi>"
         "leeʹd" V IV Ind Prt Sg3 
-: 
 "<samai>"
         "samai" Adv 
-: 
 "<jåʹttel>"
-        "jåʹttel" A Pl Nom 
-        "jåʹttel" A Sg Acc 
-        "jåʹttel" A Sg Gen
         "jåʹttel" A Sg Nom 
 "<.>"
         "." CLB
@@ -568,35 +307,18 @@
 # text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
 "<Tät>"
         "tät" Det Dem Sg Nom 
-        "tät" Pron Dem Sg Nom 
-: 
 "<jåhtta>"
         "jåhtta" Adv Sem/Time 
-: 
 "<tuåimtum>"
         "tuåimted" V Pass PrfPrc
-: 
 "<ǩeʹrjj>"
         "ǩeʹrjj" N Sg Nom
-: 
 "<lij>"
         "leeʹd" V IV Ind Prs Sg3 
-: 
 "<Peter>"
         "Peter" N Prop Sem/Mal Sg Nom
-        "Peter" N Prop Sem/Mal Cmp/SgNom
-        "Peter" N Prop Sem/Mal Sg Acc 
-        "Peter" N Prop Sem/Mal Sg Gen Allegro
-: 
 "<vuõltteem>"
-        "vuõllâd" Ex/V Der/Caus Der/teqm A Pl Nom
-        "vuõllâd" Ex/V Der/Caus Der/teqm A Sg Acc 
-        "vuõllâd" Ex/V Der/Caus Der/teqm A Sg Gen
-        "vuõltteed" V Actio
-        "vuõltteed" V Actio Acc 
-        "vuõltteed" V Actio Gen
-        "vuõltteed" V Actio Nom
-        "vuõltteed" V Ind Prt Sg1 
+        "vuõltteed" V Act PrfPrc 
 "<.>"
         "." CLB
 
@@ -615,40 +337,3 @@
 8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Sg|Loc	5	appos	_	_
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = NA2_00635_1az::0:39:13
-# aannotation="no" begintime="0:39:13" endtime=""
-# text = Ij kuʹǩǩ leämmaž mieʹccest, iʹttli kuʹmpp väʹst mååust.
-# text_fi = Ei ollut kauaa metsässä, susi ilmestyi takaisin.
-"<Ij>"
-        "ij" V Neg Ind Sg3
-: 
-"<kuʹǩǩ>"
-        "kuʹǩǩ" A Sg Nom
-: 
-"<leämmaž>"
-        "leeʹd" V IV Act PrfPrc
-        "leeʹd" V IV Err/Orth Act PrfPrc
-        "leeʹd" V IV Ind Prt ConNeg
-        "leeʹd" V PrfPrc
-: 
-"<mieʹccest>"
-        "meäʹcc" N Sg Loc
-        "mieʹcsted" V Imprt ConNeg
-        "mieʹcsted" V Imprt Sg2
-        "mieʹcsted" V Ind Prs ConNeg
-"<,>"
-        "," CLB
-: 
-"<iʹttli>"
-        "iʹttled" V Ind Prt Sg3
-: 
-"<kuʹmpp>"
-        "kuʹmpp" N Sg Nom
-: 
-"<väʹst>"
-        "väʹst" Adv
-: 
-"<mååust>"
-        "mååust" Adv
-"<.>"
-        "." CLB
