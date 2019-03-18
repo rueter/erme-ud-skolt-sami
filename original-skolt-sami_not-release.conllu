@@ -114,26 +114,16 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
 # text = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
 # text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
-"<Nuʹtt>"
-        "nuʹtt" Adv 
-"<kuâđđje>"
-        "kuâđđjed" V Ind Prt Pl3 
-"<vaʹlljeeǩâni>"
-        "vaʹlljeed" V VAbess
-"<Peter>"
-        "Peter" N Prop Sem/Mal Attr
-"<Smith>"
-        "Smith" N Prop Sem/Sur Sg Nom 
-"<diǥu>"
-        "diǥu" CS 
-"<še>"
-        "še" Pcle
-"<Mary>"
-        "Mary" N Prop Sem/Fem Attr
-"<Brown>"
-        "Brown" N Prop Sem/Sur Sg Nom
-"<.>"
-        "." CLB
+1 Nuʹtt	  nuʹtt	     ADV    Adv	  _	  2    advmod	_	_
+2 kuâđđje kuâđđjed   VERB   V	  Ind|Prt|Pl3  0	root	_	_
+3 vaʹlljeeǩâni	     vaʹlljeed	  VERB	       V	VAbess	2	advcl	_	_
+4 Peter		     Peter	  PROPN	       N	Prop|Sem/Mal|Attr	5	compound:nn	_	_
+5 Smith		     Smith	  PROPN	       N	Prop|Sem/Sur|Sg|Nom	2	nsubj		_	_
+6 diǥu		     diǥu	  SCONJ	       CS	_			9	mark		_	_
+7 še		     še		  ADV	       Pcle	_			9	advmod		_	_
+8 Mary		     Mary	  PROPN	       N	Prop|Sem/Fem|Attr	9	compound:nn	_	_
+9 Brown		     Brown	  PROPN	       N	Prop|Sem/Sur|Sg|Nom	5	conj		_	_
+10		     .		  .	       PUNCT	CLB			_	2		punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:12
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
@@ -305,22 +295,14 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
 # text = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
 # text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
-"<Tät>"
-        "tät" Det Dem Sg Nom 
-"<jåhtta>"
-        "jåhtta" Adv Sem/Time 
-"<tuåimtum>"
-        "tuåimted" V Pass PrfPrc
-"<ǩeʹrjj>"
-        "ǩeʹrjj" N Sg Nom
-"<lij>"
-        "leeʹd" V IV Ind Prs Sg3 
-"<Peter>"
-        "Peter" N Prop Sem/Mal Sg Nom
-"<vuõltteem>"
-        "vuõltteed" V Act PrfPrc 
-"<.>"
-        "." CLB
+1	Tät	tät	Det	_	Dem|Sg|Nom	4	det	_	_
+2	jåhtta	jåhtta	Adv	_	Sem/Time	3	advmod	_	_
+3	tuåimtum	tuåimted	V	_	Pass|PrfPrc	4	advcl	_	_
+4	ǩeʹrjj	ǩeʹrjj	N	_	Sg|Nom	7	nsubj	_	_
+5	lij	leeʹd	V	_	IV|Ind|Prs|Sg3	7	cop	_	_
+6	Peter	Peter	N	_	Prop|Sem/Mal|Sg|Nom	7	obl	_	_
+7	vuõltteem	vuõltteed	V	_	Act|PrfPrc	0	root	_	_
+8	.	.	CLB	_	_	7	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:20
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
@@ -336,4 +318,32 @@
 7	Franskkjânnam	Franskkjânnam	PROPN	N	Prop|Sem/Plc|Sg|Gen	8	nmod	_	_
 8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Sg|Loc	5	appos	_	_
 9	.	.	PUNCT	CLB	_	2	punct	_	_
+
+# sent_id = NA2_00635_1az::0:39:13
+# aannotation="no" begintime="0:39:13" endtime=""
+# text = Ij kuuʹǩǩ leämmaž mieʹccest, iʹttli kuʹmpp väʹst mååust.
+# text_fi = Ei ollut kauaa metsässä, susi ilmestyi takaisin.
+1	Ij	ij	V	_	Neg|Ind|Sg3	3	aux:neg	_	_
+2	kuuʹǩǩ	kuʹǩǩ	ADV	_	Sg|Nom	3	advmod	_	_
+3	leämmaž	leeʹd	V	_	IV|Act|PrfPrc	0	root	_	_
+4	mieʹccest	meäʹcc	N	_	Sg|Loc	3	obl	_	_
+5	,	,	CLB	_	_	6	punct	_	_
+6	iʹttli	iʹttled	V	_	Ind|Prt|Sg3	3	advcl	_	_
+7	kuʹmpp	kuʹmpp	N	_	Sg|Nom	6	nsubj	_	_
+8	väʹst	väʹst	Adv	_	_	6	advmod	_	_
+9	mååust	mååust	Adv	_	_	6	advmod	_	_
+10	.	.	CLB	_	_	3	punct	_	_
+
+# sent_id = 11308_1a
+# aannotation="no" begintime="0:01:32" endtime="0:01:36"
+# text = tõt sluužbäiʹǧǧ leäi kuâhttlovitt eeʹjj.
+# text_fi = se palvelusaika oli 25 vuotta.
+1	tõt	tõt	Pron	_	<sms>|Dem|Sg|Nom|@SUBJ>	2	det	_	_
+2	sluužbäiʹǧǧ	sluuʹžbäiʹǧǧ	N	_	<sms>|Sg|Nom|@SUBJ>	5	nsubj	_	_
+3	leäi	leeʹd	V	_	<sms>|IV|Ind|Prt|Sg3|@+FMAINV	5	cop	_	_
+4	kuâhttlovitt	kuâhttlovitt	NUM	_	_	5	nummod	_	_
+5	eeʹjj	eeʹǩǩ	N	_	<sms>|Sg|Gen	0	root	_	_
+6	.	.	CLB	_	_	5	punct	_	_
+
+
 
