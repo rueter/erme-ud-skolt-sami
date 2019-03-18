@@ -327,3 +327,10 @@
 # aannotation="no" begintime="0:22:17" endtime="0:22:20"
 # text = Ja tõʹst kuäʹđest mâiʹd kauʹnne, tõid puk vaʹldde.
 # text_fi = Ja siitä kodasta mitä löysivät, sen kaiken ottivat.
+
+# sent_id = 12744_1bz
+# aannotation="no" begintime="0:00:04" endtime="0:00:07"
+# text = Jeäʹl čuuʹt uus spoukkâl!
+# text_fi = Älä paukauta kovasti ovea!
+
+Testi
