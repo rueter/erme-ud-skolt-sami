@@ -333,4 +333,122 @@
 # text = Jeäʹl čuuʹt uus spoukkâl!
 # text_fi = Älä paukauta kovasti ovea!
 
-Testi
+# sent_id = 632_1a 
+# aannotation="no" begintime="0:23:42" endtime="0:28:45" 
+# text = Nääiʹt mij puk hiâvtep oummeen.
+# text_fi = Näin me kaikki ihmisemme tapatamme.
+
+# sent_id = 3320_2a 
+# aannotation="no" begintime="0:26:39" endtime="0:26:42" 
+# text = Puõccid kuʹmpp poori, saauʒid puk poori.
+# text_fi = Poroja susi söi, lampaat kaikki söi.
+
+# sent_id = 634_2az 
+# aannotation="no" begintime="0:31:00" endtime="0:31:02" 
+# text = Sij vaʹldde kollte tõid puk.
+# text_fi = Hän löi ne kaikki kuoliaaksi.
+
+# sent_id = 636_2az 
+# aannotation="no" begintime="0:01:44" endtime="0:01:48" 
+# text = Jaʹhsse peâutaa, puk pihttsid väʹldde meädda.
+# text_fi = Riisuivat alasti, kaikki vaatteet ottivat pois.
+
+# sent_id = 632_1a 
+# aannotation="no" begintime="0:07:14" endtime="0:07:27" 
+# text = Ja tälvva ǩeeʹzztim bensiinaliiʹttid tok tuõddâr ool ja põrttmuõrid, luuʹdid, puk ǩeeʹzzteeʹl viiǥǥim.
+# text_fi = Ja talvella vedätimme bensiiniastioita sinne tunturin päälle ja rakennuspuita, lautoja, kaikki veimme vedättämällä.
+
+# sent_id = 632_1a 
+# aannotation="no" begintime="0:20:46" endtime="0:20:50" 
+# text = Paččjooǥǥ reeddast jooʹđim puk tõin vaaʹrin.
+# text_fi = Paatsjoen rannalla kuljimme kaikilla niillä vaaroilla.
+	
+# sent_id = 635_3az 
+# aannotation="no" begintime="0:36:00" endtime="0:36:06" 
+# text = Teʹl tuâllʹjõž ääiʹjest joʹtte puk ceerkvin ja čõõʹlmees riʹstte.
+# text_fi = Silloin entiseen aikaan kuljettiin kaikissa kirkoissa ja ristittiin silmiä.
+
+# sent_id = 12744_1a 
+# aannotation="no" begintime="0:01:33" endtime="0:01:35" 
+# text = Cieʹlǩǩeš, tät lij pukid vueʹlǧǧem.
+# text_fi = Sanottiin, tämä on kaikille lähtö.
+
+# sent_id = 18530_1az 
+# aannotation="no" begintime="0:03:47" endtime="0:03:54" 
+# text = Go čee lij vaalmâs, jeäʹnn koočč pukid juukkâd.
+# text_fi = Kun tee on valmis, äiti kutsuu kaikki juomaan.
+
+# sent_id = 11723_1a 
+# aannotation="no" begintime="0:02:36" endtime="0:02:39" 
+# text = Ja strääznaineäʹttel leäi pukin kaallšõmâs.
+# text_fi = Ja piinaviikko oli kaikkein kallein.
+
+# sent_id = 9833_1a 
+# aannotation="no" begintime="0:29:26" endtime="0:29:33" 
+# text = Ja juõʹǩǩkaž, vaikka vuäʹmm oummu leʹjje, hoiʹddje ja muʹštte puäccjeez.
+# text_fi = Jokainen, vaikka oli vanhoja ihmisiä, hoitivat ja muistivat poronsa.
+
+# sent_id = 9836_1a 
+# aannotation="no" begintime="0:31:20" endtime="0:31:28" 
+# text = De son puk tõn siʹjdde, mõõn leežž leäm šurr, de pukid juõʹjji samai juõkksiʹžže, juõʹǩǩ põʹrtte uuʹdi.
+# text_fi = Sitten hän koko sille kylälle, kuinka suuri se olikaan, niin jakoi kaikille, aivan jokaiselle, antoi joka taloon.
+
+# sent_id = 16620_1a 
+# aannotation="no" begintime="0:06:00" endtime="0:06:03" 
+# text = A mon leäm sami maaimõs.
+# text_fi = Mutta minä olen ihan viimeinen.
+
+# sent_id = 9836_1a 
+# aannotation="no" begintime="0:19:13" endtime="0:19:20" 
+# text = Mâânn, mâânn, de tõn ool ko sami poppad, de pâi râvv pâi čorru, peäkk meädda.
+# text_fi = Menee menee ja kun osuu aivan päälle, niin se tippuu sivuun, sinkoaa pois.
+
+# sent_id = 3320_2a 
+# aannotation="no" begintime="0:17:09" endtime="0:17:13" 
+# text = Eeʹjjin jäʹmme suäna, mon sami õhttu kuâđđjam.
+# text_fi = He isän kanssa kuolevat, mina jään avian yksin.
+
+# sent_id = 633_3az  
+# aannotation="no" begintime="0:05:59" endtime="0:06:03" 
+# text = Puk mõʹnne rââst, sami puk rââst mõʹnne.
+# text_fi = Kaikki menivät poikki, aivan kaikki menivät poikki.
+
+# sent_id = 9836_1bz 
+# aannotation="no" begintime="0:31:25" endtime="0:31:29" 
+# text = Na tõt âlgg samai jõnn puõlâšinn âlgg leeʹd.
+# text_fi = No sen täytyy olla hyvin kova pakkasyö.
+
+# sent_id = 3320_2a 
+# aannotation="no" begintime="0:16:02" endtime="0:16:04" 
+# text = Tääiʹb eʹpet šõõddi jeeʹresnallšem jieʹllem.
+# text_fi = Täällä taas tuli erilainen elämä.
+
+# sent_id = 634_2az 
+# aannotation="no" begintime="0:10:24" endtime="0:10:29" 
+# text = Ij, son vuâlgg ǩiõččâd ååʹn, koozz suʹst šõõddi tõt ooumaž.
+# text_fi = Ei, hän lähtee nyt katsomaan, mihin se hänen miehensä joutui.
+
+# sent_id = 634_2az 
+# aannotation="no" begintime="0:49:30" endtime="0:49:33" 
+# text = Njuhččân šõõddi, ǩiʹrddli.
+# text_fi = Muuttui joutseneksi, lähti lentoon.
+
+# sent_id = 16620_1a 
+# aannotation="no" begintime="0:28:53" endtime="0:28:57" 
+# text = Mâŋŋa eeʹjjstan mon šõʹddem pieʹllneb mannu.
+# text_fi = Synnyin puolitoista kuukautta isäni [kuoleman] jälkeen.
+
+# sent_id = 11313_1az 
+# aannotation="no" begintime="0:25:40" endtime="0:25:42" 
+# text = Di väʹst eʹpet ooumaž šõʹddem.
+# text_fi = Ja taas mieheksi tulin.
+
+# sent_id = 16620_1a 
+# aannotation="no" begintime="0:00:50" endtime="0:00:53" 
+# text = A mon šõʹddem Mueʹtǩǩvuõnâst.
+# text_fi = Mutta mina synnyin Muotkavuonossa.
+
+# sent_id = 3319_1az 
+# aannotation="no" begintime="0:05:18" endtime="0:05:22" 
+# text = Mon vaʹlddem jieʹrj ja piânnǥa.
+# text_fi = Minä otin härän ja koiran.
