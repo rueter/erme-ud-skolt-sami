@@ -314,91 +314,54 @@
 # aannotation="no" begintime="0:02:50" endtime="0:02:53"
 # text = čiččâm eeʹǩǩed mâânn ouddâl ko peäss.
 # text_fi = seitsemän vuotta menee ennen kuin pääsee.
-"<čiččâm>"
-         "čiččâm" Num Sg Nom SELECT:627:genmod
-"<eeʹǩǩed>"
-          "eeʹǩǩ" N <sms> Par SUBSTITUTE:1298
-"<mâânn>"
-          "mõõnnâd" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<ouddâl>"
-          "ouddâl" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
-"<ko>"
-        "ko" CS <sms> @CVP MAP:718 SUBSTITUTE:1307
-"<peäss>"
-          "piâssâd" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<.>"
-        "." CLB
+1	čiččâm	čiččâm	Num	_	Sg|Nom	2	nummod	_	_
+2	eeʹǩǩed	eeʹǩǩ	N	_	Par	3	nsubj	_	_
+3	mâânn	mõõnnâd	V	_	Ind|Prs|Sg3	0	root	_	_
+4	ouddâl	ouddâl	Adv	_	_	6	mark	_	_
+5	ko	ko	CS	_	_	4	flat	_	_
+6	peäss	piâssâd	V	_	Ind|Prs|Sg3	3	advcl	_	_
+7	.	.	CLB	_	_	3	punct	_	_
 
 # sent_id = 11308_1a
 # aannotation="no" begintime="0:03:29" endtime="0:03:34"
 # text = Na teʹl âʹtte čiččâm eeʹjj feʹrttji leeʹd säldten ja vasta puätt mååust.
 # text_fi = No silloinhan seitsemän vuotta täytyi olla sotilaana ja vasta sitten tulee takaisin.
-"<Na>"
-        "na" Interj <sms> Interj <sms> SUBSTITUTE:1302
-"<teʹl>"
-          "teʹl" Adv <sms> @ADVL> MAP:1203 SUBSTITUTE:1299
-"<âʹtte>"
-          "âʹtte" Adv <sms> Sem/Time @ADVL> MAP:1203 SUBSTITUTE:1299
-"<čiččâm>" Osaatko vastata?
-        "čiččâm" Num <sms> SUBSTITUTE:1301
-        "čiččâm" Num <sms> Pl Nom SUBSTITUTE:1301
-        "čiččâm" Num <sms> Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1301
-        "čiččâm" Num <sms> Sg Gen SUBSTITUTE:1301
-        "čiččâm" Num <sms> Sg Nom SUBSTITUTE:1301
-"<eeʹjj>"
-          "eeʹǩǩ" N <sms> Sg Acc @OBJ> MAP:1283 SUBSTITUTE:1298
-"<feʹrttji>"
-        "feʹrttjed" V <sms> Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<leeʹd>"
-        "leeʹd" V <sms> IV Inf SUBSTITUTE:1300
-"<säldten>"
-        "säldten" ?
-"<ja>"
-        "ja" CC <sms> @CVP MAP:724 SUBSTITUTE:1306
-"<vasta>"
-        "vasta" ?
-"<puätt>"
-        "pueʹtted" V <sms> Ind Prs Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<mååust>"
-        "mååust" Adv <sms> @<ADVL MAP:1206 SUBSTITUTE:1299
-"<.>"
-        "." CLB
+1	Na	na	INTJ	_	Interj	8	advmod	_	_
+2	teʹl	teʹl	ADV	_	_	8	advmod:tmod	_	_
+3	âʹtte	âʹtte	ADV	_	Sem/Time	2	advmod	_	_
+4	čiččâm	čiččâm	NUM	_	Sg|Nom	5	nummod	_	_
+5	eeʹjj	eeʹǩǩ	NOUN	_	Sg|Acc	8	obl:tmod	_	_
+6	feʹrttji	feʹrttjed	AUX	_	Ind|Prt|Sg3	8	aux	_	_
+7	leeʹd	leeʹd	AUX	_	IV|Inf	8	cop	_	_
+8	säldten	säldten	NOUN	_	Ess	0	root	_	_
+9	ja	ja	CC	_	_	11	cc	_	_
+10	vasta	vasta	ADV	_	_	11	advmod:tmod	_	_
+11	puätt	pueʹtted	VERB	_	Ind|Prs|Sg3	8	conj	_	_
+12	mååust	mååust	ADV	_	_	11	advmod	_	_
+13	.	.	CLB	_	_	8	punct	_	_
 
 # sent_id = 11308_1a
 # aannotation="no" begintime="0:06:30" endtime="0:06:35"
 # text = Ja seeʹst vueʹppes leäi Laurikainen
 # text_fi = Ja heillä opas oli Laurikainen
-"<Ja>"
-        "ja" CC <sms> SUBSTITUTE:1306
-"<seeʹst>"
-        "son" Pron <sms> Pers Pl3 Loc SUBSTITUTE:1305
-"<vueʹppes>"
-        "vueʹppes" ?
-"<leäi>"
-        "leeʹd" V <sms> IV Ind Prt Sg3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<Laurikainen>"
-        "Laurikainen" ?
+1	Ja	ja	CC	_	_	5	cc	_	_
+2	seeʹst	son	PRON	_	Pers|Pl3|Loc	5	obl	_	_
+3	vueʹppes	vueʹppes	NOUN	_	_	5	nsubj	_	_
+4	leäi	leeʹd	VERB	_	IV|Ind|Prt|Sg3	5	cop	_	_
+5	Laurikainen	Laurikainen	PROPN	_	_	0	root	_	_
 
 # sent_id = 11308_1a
 # aannotation="no" begintime="0:09:13" endtime="0:09:18"
 # text = Oummu vuejjle de mõʹnne de mieʹldd čuõiggle.
 # text_fi = Miehet lähtivät ajamaan sitten menivät ja lähtivät perään hiihtämään.
-"<Oummu>"
-          "ooumaž" N <sms> Pl Nom @SUBJ> SELECT:636:npl MAP:1151 SUBSTITUTE:1298
-"<vuejjle>"
-          "vuejjled" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<de>"
-          "de" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
-"<mõʹnne>"
-          "mõõnnâd" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<de>"
-          "de" CC <sms> @CVP SELECT:897:CCCS MAP:724 SUBSTITUTE:1306
-"<mieʹldd>"
-          "mieʹldd" Adp
-"<čuõiggle>"
-          "čuõiggled" V <sms> Ind Prt Pl3 @+FMAINV MAP:736 SUBSTITUTE:1300
-"<.>"
-        "." CLB
+1	Oummu	ooumaž	NOUN	_	Pl|Nom	2	nsubj	_	_
+2	vuejjle	vuejjled	VERB	_	Ind|Prt|Pl3	0	root	_	_
+3	de	de	CC	_	_	4	cc	_	_
+4	mõʹnne	mõõnnâd	VERB	_	Ind|Prt|Pl3	2	conj	_	_
+5	de	de	CC	_	_	7	cc	_	_
+6	mieʹldd	mieʹldd	ADV	_	_	7	advmod	_	_
+7	čuõiggle	čuõiggled	VERB	_	Ind|Prt|Pl3	2	conj	_	_
+8	.	.	CLB	_	_	2	punct	_	_
 
 # sent_id = 11308_1a
 # aannotation="no" begintime="0:09:29" endtime="0:09:34"
