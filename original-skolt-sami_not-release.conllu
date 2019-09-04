@@ -23,32 +23,32 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
 # text = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
 # text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
-1 Son	son	Pron   _	Pers|Sg3|Nom   2	nsubj	_	_
-2 ǩiččlõõddi	ǩiččlõddâd	VERB	V	_	Ind|Prt|Sg3	0	root	_	_
-3 looppted	looppted	VERB	V	_	Inf	2	xcomp	_	_
-4 tääbbaǩ	tääbbaǩ		NOUN	N	_	Sg|Gen	5	obl	_	_
-5 puälddmõõžž	puälddmõš	NOUN	N	_	Sg|Acc	3	obj	_	_
-6 da	da		CC	CC	_	_	8	cc	_	_
-7 veeiʹn	veiʹnn		NOUN	N	_	Sg|Gen	8	obj	_	_
-8 juukkmõõžž	juukkmõš	NOUN	N	_	Sg|Acc	5	conj	_	_
-9 .	.	CLB	CLB	_	_	2	punct	_	_
+1	Son	son	Pron	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Ind|Prt|Sg3	0	root	_	_
+3	looppted	looppted	VERB	V	Inf	2	xcomp	_	_
+4	tääbbaǩ	tääbbaǩ	NOUN	N	Sg|Gen	5	obl	_	_
+5	puälddmõõžž	puälddmõš	NOUN	N	Sg|Acc	3	obj	_	_
+6	da	da	CC	CC	_	8	cc	_	_
+7	veeiʹn	veiʹnn	NOUN	N	Sg|Gen	8	obj	_	_
+8	juukkmõõžž	juukkmõš	NOUN	N	Sg|Acc	5	conj	_	_
+9	.	.	CLB	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:4
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
 # text = Haaʹlääk-a mõõnnâd?
 # text_fi = Haluatko mennä?
-1 Haaʹlääk-a	     haaʹleed	VERB	V	Ind|Prs|Sg2|Qst/a	0	root	_	_
-2 mõõnnâd	     mõõnnâd	VERB	V	Inf			1	ccomp	_	_
-3 ?		     ?		CLB	CLB	_			1	punct	_	_
+1	Haaʹlääk-a	haaʹleed	AUX	V	Ind|Prs|Sg2|Qst/a	2	aux	_	_
+2	mõõnnâd	mõõnnâd	VERB	V	Inf	0	root	_	_
+3	?	?	CLB	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:5
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
 # text = Ääʹved ikkân Sam!
 # text_fi = Avaa ikkuna Sam!
-1 Ääʹved  ääʹveed	VERB	V	Imprt|Sg2	0	root	_	_
-2 ikkân	  ikkân		NOUN	N	Sg|Acc		1	obj	_	_
-3 Sam	  Sam		NOUN	N	Prop|Sg|Nom	1	vocative	_	_
-4 !	  !		CLB	CLB	_		1	punct		_	_
+1	Ääʹved	ääʹveed	VERB	V	Imprt|Sg2	0	root	_	_
+2	ikkân	ikkân	NOUN	N	Sg|Acc	1	obj	_	_
+3	Sam	Sam	NOUN	N	Prop|Sg|Nom	1	vocative	_	_
+4	!	!	CLB	CLB	_	1	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:6
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
@@ -114,16 +114,16 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
 # text = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
 # text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
-1 Nuʹtt	  nuʹtt	     ADV    Adv	  _	  2    advmod	_	_
-2 kuâđđje kuâđđjed   VERB   V	  Ind|Prt|Pl3  0	root	_	_
-3 vaʹlljeeǩâni	     vaʹlljeed	  VERB	       V	VAbess	2	advcl	_	_
-4 Peter		     Peter	  PROPN	       N	Prop|Sem/Mal|Attr	5	compound:nn	_	_
-5 Smith		     Smith	  PROPN	       N	Prop|Sem/Sur|Sg|Nom	2	nsubj		_	_
-6 diǥu		     diǥu	  SCONJ	       CS	_			9	mark		_	_
-7 še		     še		  ADV	       Pcle	_			9	advmod		_	_
-8 Mary		     Mary	  PROPN	       N	Prop|Sem/Fem|Attr	9	compound:nn	_	_
-9 Brown		     Brown	  PROPN	       N	Prop|Sem/Sur|Sg|Nom	5	conj		_	_
-10		     .		  .	       PUNCT	CLB			_	2		punct	_	_
+1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
+2	kuâđđje	kuâđđjed	VERB	V	Ind|Prt|Pl3	0	root	_	_
+3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	VAbess	2	advcl	_	_
+4	Peter	Peter	PROPN	N	Prop|Sem/Mal|Attr	5	compound:nn	_	_
+5	Smith	Smith	PROPN	N	Prop|Sem/Sur|Sg|Nom	2	nsubj		_	_
+6	diǥu	diǥu	SCONJ	CS	_	9	mark		_	_
+7	še	še	ADV	       Pcle	_	9	advmod		_	_
+8	Mary	Mary	  PROPN	N	Prop|Sem/Fem|Attr	9	compound:nn	_	_
+9	Brown	Brown	PROPN	N	Prop|Sem/Sur|Sg|Nom	5	conj		_	_
+10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = FofonoffHilkka_brat_2018:12
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
