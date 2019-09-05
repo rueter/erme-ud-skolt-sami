@@ -268,7 +268,7 @@
 9	mååust	mååust	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = 11308_1a:1
+# sent_id = 11308_1a::0:01:32-0:01:36
 # aannotation="no" begintime="0:01:32" endtime="0:01:36"
 # text = tõt sluužbäiʹǧǧ leäi kuâhttlovitt eeʹjj.
 # text_fi = se palvelusaika oli 25 vuotta.
@@ -279,7 +279,7 @@
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Gen|Number=Sing	0	root	_	GTtags=Sg,Gen|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id = 11308_1a:2
+# sent_id = 11308_1a::0:02:12-0:02:18
 # aannotation="no" begintime="0:02:12" endtime="0:02:18"
 # text = kõõjji, štõ leäk-a tiõrvâs, jiõk leäkku tiõrvâs, lij-a piâr vai iʹlla.
 # text_fi = että oletko terve, et ole terve, onko perhettä vai eikö ole.
@@ -299,7 +299,7 @@
 14	iʹlla	iʹlla	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Polarity=Neg	12	conj	_	GTtags=Neg,Ind,Prs,Sg3|SpaceAfter=No
 15	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id = 11308_1a:3
+# sent_id = 11308_1a::0:02:39-0:02:44
 # aannotation="no" begintime="0:02:39" endtime="0:02:44"
 # text = teʹl piʹjje čiččâm ekka sluužba
 # text_fi = silloin laittoivat seitsemäksi vuodeksi palvelukseen
@@ -310,7 +310,7 @@
 5	sluužba	sluuʹžb	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id = 11308_1a:4
+# sent_id = 11308_1a::0:02:50-0:02:53
 # aannotation="no" begintime="0:02:50" endtime="0:02:53"
 # text = čiččâm eeʹǩǩed mâânn ouddâl ko peäss.
 # text_fi = seitsemän vuotta menee ennen kuin pääsee.
@@ -322,7 +322,7 @@
 6	peäss	piâssâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	advcl	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id = 11308_1a:5
+# sent_id = 11308_1a::0:03:29-0:03:34
 # aannotation="no" begintime="0:03:29" endtime="0:03:34"
 # text = Na teʹl âʹtte čiččâm eeʹjj feʹrttji leeʹd säldten ja vasta puätt mååust.
 # text_fi = No silloinhan seitsemän vuotta täytyi olla sotilaana ja vasta sitten tulee takaisin.
@@ -340,7 +340,7 @@
 12	mååust	mååust	ADV	Adv	_	11	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	8	punct	_	_
 
-# sent_id = 11308_1a:6
+# sent_id = 11308_1a::0:06:30-0:06:35
 # aannotation="no" begintime="0:06:30" endtime="0:06:35"
 # text = Ja seeʹst vueʹppes leäi Laurikainen
 # text_fi = Ja heillä opas oli Laurikainen
@@ -350,7 +350,7 @@
 4	leäi	leeʹd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt|Valency=1	5	cop	_	GTtags=IV,Ind,Prt,Sg3
 5	Laurikainen	Laurikainen	PROPN	N	_	0	root	_	_
 
-# sent_id = 11308_1a:7
+# sent_id = 11308_1a::0:09:13-0:09:18
 # aannotation="no" begintime="0:09:13" endtime="0:09:18"
 # text = Oummu vuejjle de mõʹnne de mieʹldd čuõiggle.
 # text_fi = Miehet lähtivät ajamaan sitten menivät ja lähtivät perään hiihtämään.
